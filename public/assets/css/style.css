@@ -1,0 +1,1167 @@
+/* ================================================================
+   Web Tapu İşlemleri — Düzeltme Stilleri (style.css)
+   Orijinal base.css + common-pages.css üzerine override
+   ================================================================ */
+
+/* ==== 1. LOADER / BODY GÖRÜNÜRLERİ ==== */
+body {
+  visibility: visible !important;
+  opacity: 1 !important;
+  overflow: auto !important;
+}
+.ed-loader-wrapper,
+.ed-loader,
+.ed-loader-svg-holder,
+.ed-section-loader-holder {
+  display: none !important;
+}
+
+/* ==== 2. HEADER (base.css print CSS override) ==== */
+
+/*
+ * base.css @media print kuralı: #brandingBlock, #mainActionsBlock, .serviceActions
+ * hepsini display:none!important yapıyor.
+ * Ekranda bunları geri aç.
+ */
+@media screen {
+  #brandingBlock {
+    display: flex !important;
+    align-items: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important;
+    height: 100% !important;
+    min-height: 90px !important;
+    clip: auto !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    white-space: normal !important;
+    flex: 1 !important;
+  }
+
+  #mainActionsBlock {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important;
+    height: auto !important;
+    clip: auto !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    white-space: normal !important;
+  }
+
+  .serviceActions {
+    display: flex !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important;
+    height: auto !important;
+    clip: auto !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    white-space: normal !important;
+  }
+
+  .agencyLogo {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 48px !important;
+    height: 48px !important;
+    clip: auto !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    white-space: normal !important;
+  }
+}
+
+/* ==== 3. HEADER YAPISI ==== */
+
+/* h1 default margin'i kaldır (beyaz boşluk yapan) */
+h1, h1#brandingBlock {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: normal !important;
+}
+
+#top {
+  background: #2e6da4 !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 9999 !important;
+  height: 90px !important;
+  min-height: 90px !important;
+  max-height: 90px !important;
+  display: flex !important;
+  align-items: stretch !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* sticky_init base.css'de position:static!important yapıyor — override et */
+#top.sticky_init,
+#top.sticky {
+  position: fixed !important;
+  top: 0 !important;
+}
+
+#top .headerGroup {
+  display: flex !important;
+  flex-flow: row nowrap !important;
+  align-items: stretch !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 90px !important;
+  padding: 0 12px !important;
+  box-sizing: border-box !important;
+  position: relative !important;
+}
+
+/* homeLink: tam gorunur, overflow:visible */
+#brandingBlock #homeLink {
+  display: flex !important;
+  align-items: center !important;
+  height: 100% !important;
+  min-height: 90px !important;
+  text-indent: 0 !important;
+  overflow: visible !important;
+  background-image: none !important;
+  max-height: none !important;
+  max-width: none !important;
+  width: auto !important;
+  padding: 0 8px !important;
+  text-decoration: none !important;
+}
+
+/* Logo img */
+#brandingBlock #homeLink img,
+#govtr-logo-img {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  height: 80px !important;
+  width: 270px !important;
+  max-height: none !important;
+  max-width: none !important;
+  min-height: 0 !important;
+  min-width: 0 !important;
+  overflow: visible !important;
+  object-fit: contain !important;
+  flex-shrink: 0 !important;
+}
+
+/* Erişilebilirlik linki — gizli ama focus'ta görünür */
+#accesibilityBlock {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  z-index: 999;
+}
+#accesibilityBlock a:focus {
+  top: 5px;
+  position: absolute;
+  background: #fff;
+  padding: 5px 10px;
+  color: #333;
+}
+
+/* Branding (logo alanı) */
+#brandingBlock {
+  flex: 0 0 auto !important;
+  display: flex !important;
+  align-items: center !important;
+  margin: 0 !important;
+  padding: 0 8px !important;
+  height: 55px;
+}
+
+#homeLink {
+  display: flex !important;
+  align-items: center !important;
+  height: 55px;
+  text-decoration: none !important;
+  font-size: 0 !important; /* Metin gizle */
+  color: transparent !important;
+}
+
+/* Logo görsel — govtr logo PNG */
+#homeLink img,
+#homeLink::before {
+  height: 44px !important;
+  width: auto !important;
+  max-width: 180px !important;
+  object-fit: contain;
+  display: block;
+}
+
+/* Hamburger ikonu */
+.responsive-menu-icon {
+  display: none !important; /* Masaüstünde gizli */
+}
+
+/* Nav alanı (search + giriş yap) */
+#mainActionsBlock {
+  flex: 1 1 auto !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  padding: 0 10px 0 0 !important;
+  background: transparent !important;
+  position: static !important;
+  box-shadow: none !important;
+}
+
+/* Section title gizle */
+#mainActionsBlock .sectionTitle {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden; clip: rect(0,0,0,0);
+}
+
+/* Ana aksiyon listesi */
+.mainActionsList {
+  display: flex !important;
+  flex-flow: row nowrap !important;
+  align-items: center !important;
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  gap: 8px;
+  height: 55px;
+}
+
+/* Arama formu */
+.search-form-wrapper {
+  display: flex !important;
+  align-items: center !important;
+}
+
+#searchForm {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin: 0;
+}
+
+#searchForm label {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden; clip: rect(0,0,0,0);
+}
+
+.search-wrapper {
+  display: block !important;
+}
+
+.inner-search {
+  display: flex !important;
+  align-items: center !important;
+  background: rgba(255,255,255,0.15);
+  border-radius: 20px;
+  overflow: hidden;
+  height: 34px;
+}
+
+#searchField {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 13px;
+  padding: 0 10px;
+  height: 34px;
+  width: 150px;
+}
+
+#searchField::placeholder {
+  color: rgba(255,255,255,0.7);
+}
+
+.inner-search .ico-search {
+  color: rgba(255,255,255,0.8);
+  padding: 0 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#searchButton {
+  display: none; /* Arama butonu gizli — ikon kullanılıyor */
+}
+
+/* Giriş Yap butonu */
+.login-area {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.login-area a {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 20px;
+  padding: 6px 14px;
+  color: white !important;
+  font-size: 13px;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  height: 34px;
+  transition: background 0.2s;
+}
+
+.login-area a:hover {
+  background: rgba(255,255,255,0.25);
+}
+
+.login-area .ico-login {
+  font-size: 14px;
+}
+
+/* ==== 4. BREADCRUMB ==== */
+.breadcrumbBlock {
+  background: #ecf0f5;
+  border-bottom: 1px solid #d9e0e8;
+  padding: 7px 10px;
+  margin-top: 55px; /* header fixed yuksekligi kadar itmek gerekir */
+}
+
+.breadcrumb,
+ol.breadcrumb {
+  display: flex !important;
+  flex-flow: row wrap !important;
+  align-items: center !important;
+  list-style: none !important;
+  list-style-type: none !important;
+  -webkit-padding-start: 0 !important;
+  padding-inline-start: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  gap: 4px;
+  font-size: 12px;
+}
+
+.breadcrumb li,
+ol.breadcrumb li {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  list-style: none !important;
+  list-style-type: none !important;
+}
+
+.breadcrumb li::before,
+ol.breadcrumb li::before {
+  display: none !important;
+  content: none !important;
+}
+
+.breadcrumb li::after,
+ol.breadcrumb li::after {
+  content: '›';
+  color: #999;
+  font-size: 14px;
+  margin-left: 4px;
+}
+
+.breadcrumb li:last-child::after,
+ol.breadcrumb li:last-child::after {
+  display: none;
+}
+
+.breadcrumb a {
+  color: #3b77ac;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.breadcrumb .ico-home {
+  font-size: 14px;
+  color: #3b77ac;
+}
+
+/* ==== 5. SERVİS BAŞLIĞI + PAYLAŞ ==== */
+/* Kendi custom class'ımızı kullanarak common-pages.css çakışmasından kaçınıyoruz */
+.tapu-service-header {
+  background: #fff;
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  width: 100% !important;
+  box-shadow: 0 1em 1em -1em rgba(0,0,0,.15);
+  min-height: 60px;
+  padding: 4px 10px;
+  box-sizing: border-box;
+  gap: 8px;
+}
+
+.tapu-service-header .serviceDetails {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  gap: 8px !important;
+  flex: 1 1 auto !important;
+  min-width: 0 !important;
+  width: auto !important;   /* base.css width:100%!important override */
+  float: none !important;   /* base.css float:none override */
+  clear: none !important;   /* base.css clear:both override */
+  margin: 0 !important;
+}
+
+.tapu-service-header .agencyLogo {
+  width: 44px !important;
+  height: 44px !important;
+  object-fit: contain;
+  flex-shrink: 0 !important;
+  display: block !important;
+  margin-left: 0 !important;
+}
+
+.tapu-service-header .serviceDetails h2 {
+  display: flex !important;
+  flex-flow: column nowrap !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.tapu-service-header .serviceDetails h2 a {
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  color: #3b77ac !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block !important;
+  line-height: 1.3;
+}
+
+.tapu-service-header .serviceDetails h2 em {
+  font-size: 13px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  color: #333 !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block !important;
+  line-height: 1.3;
+}
+
+/* Paylaş alanı */
+.tapu-service-header .serviceActions {
+  display: flex !important;
+  align-items: center !important;
+  flex-shrink: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+.share_item {
+  position: relative;
+  display: flex !important;
+}
+
+.share_button {
+  display: flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  background: #f0f4f7 !important;
+  border: 1px solid #d0dae3 !important;
+  border-radius: 4px !important;
+  padding: 6px 12px !important;
+  font-size: 13px !important;
+  color: #4a6785 !important;
+  cursor: pointer !important;
+  white-space: nowrap;
+  height: 34px;
+  transition: background 0.15s;
+}
+
+.share_button:hover {
+  background: #e2eaf0 !important;
+}
+
+.share_button .ico-share {
+  font-size: 14px;
+  color: #4a6785;
+}
+
+.share_button .serviceActions_maintitle {
+  font-size: 13px;
+}
+
+/* Paylaş dropdown menüsü */
+.share_menu {
+  display: none;
+  position: absolute !important;
+  width: 175px !important;
+  top: 40px !important;
+  right: 0 !important;
+  padding: 5px !important;
+  color: #83929f !important;
+  background: #fff !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,.16) !important;
+  z-index: 100;
+}
+
+.share_menu a {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px;
+  padding: 8px 10px !important;
+  background: #fff !important;
+  border-radius: 0 !important;
+  border-bottom: 1px solid #dddfe1 !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  color: #4a4e50 !important;
+  font-size: 13px;
+}
+
+.share_menu a:last-child {
+  border-bottom: none !important;
+}
+
+/* ==== 6. FORM ALANI ==== */
+.is-invalid {
+  border-color: #d32f2f !important;
+  box-shadow: 0 0 0 1px rgba(211,47,47,0.2) !important;
+}
+
+.form-error-text {
+  color: #d32f2f;
+  font-size: 11px;
+  margin-top: 3px;
+  display: block;
+}
+
+.alert {
+  padding: 10px 14px;
+  border-radius: 4px;
+  font-size: 13px;
+  margin-top: 1rem;
+}
+.alert-warning {
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  color: #856404;
+}
+
+/* ==== 5b. RANDEVU ÖZETİ KUTUSU ==== */
+.tapu-info-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: #eef4fb;
+  border: 1px solid #b3cfe8;
+  border-radius: 6px;
+  padding: 12px 14px;
+  font-size: 13.5px;
+  color: #2c5282;
+  line-height: 1.5;
+}
+.tapu-info-box a { color: #1a4a8a; font-weight: 600; }
+.tapu-info-box svg { flex-shrink: 0; margin-top: 2px; }
+
+.randevu-ozet-box {
+  background: #f4f7fb;
+  border: 1px solid #d3dde8;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-top: 1.2rem;
+}
+.randevu-ozet-box p {
+  margin: 0 0 6px 0;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+}
+.randevu-ozet-box p:last-child { margin-bottom: 0; }
+.randevu-ozet-box strong { color: #1c3761; font-weight: 600; }
+
+/* Dikey buton düzeni */
+.webtapu-actions--column {
+  flex-direction: column !important;
+  align-items: stretch !important;
+  gap: 10px !important;
+}
+.webtapu-actions--column .primaryButton {
+  width: 100% !important;
+  border-radius: 8px !important;
+  height: 3em !important;
+  font-size: 15px !important;
+  padding: 0 1.5em !important;
+  gap: 8px !important;
+  justify-content: center !important;
+}
+.webtapu-actions--column .primaryButton::after { display: none !important; }
+.webtapu-actions--column .primaryButton svg { flex-shrink: 0; }
+
+/* Geri butonu */
+.secondaryButton {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 6px !important;
+  width: 100% !important;
+  height: 3em !important;
+  border: 1px solid #c5d3e0 !important;
+  border-radius: 8px !important;
+  background: #fff !important;
+  color: #3b77ac !important;
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+  transition: background 0.15s, border-color 0.15s !important;
+}
+.secondaryButton:hover {
+  background: #f0f5fa !important;
+  border-color: #3b77ac !important;
+}
+
+/* ==== ÖDEME SAYFASI ==== */
+.odeme-kart-no {
+  letter-spacing: 2px;
+  font-family: 'Courier New', monospace;
+}
+.odeme-ucret-field {
+  background: #f4f7fb !important;
+  color: #1c3761 !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  cursor: default !important;
+  border-color: #d3dde8 !important;
+}
+.odeme-sms-note {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  color: #6b7280;
+  margin-top: 12px;
+  text-align: left;
+  line-height: 1.4;
+}
+
+/* ==== 6a. HATA KUTUSU (İşleminiz tamamlanamadı) ==== */
+.tapu-error-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  background: #fdf2f2;
+  border: 1.5px solid #e8b4b4;
+  border-radius: 8px;
+  padding: 18px 20px;
+  margin-top: 1.2rem;
+  margin-bottom: 4px;
+}
+
+.tapu-error-icon {
+  flex-shrink: 0;
+  margin-top: 2px;
+  line-height: 1;
+}
+
+.tapu-error-icon svg {
+  display: block;
+}
+
+.tapu-error-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.tapu-error-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #2d2d2d;
+  margin: 0 0 8px 0;
+}
+
+.tapu-error-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tapu-error-list li {
+  position: relative;
+  padding-left: 18px;
+  font-size: 14px;
+  color: #2d2d2d;
+  line-height: 1.6;
+}
+
+.tapu-error-list li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #555;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* ==== 6b. SOSYAL MEDYA İKONLARI ==== */
+#bottomSocialLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+#bottomSocialLinks a {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  padding: 6px 10px !important;
+  border-radius: 4px !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  background: rgba(255,255,255,0.08) !important;
+  border: 1px solid rgba(255,255,255,0.18) !important;
+  transition: background 0.15s;
+  white-space: nowrap !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  min-width: 0 !important;
+  overflow: hidden !important;
+}
+
+#bottomSocialLinks a:hover {
+  background: rgba(255,255,255,0.18) !important;
+}
+
+.social-icon-wrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+}
+
+.social-icon-wrap svg {
+  display: block;
+  width: 16px;
+  height: 16px;
+}
+
+/* Mobil: sağ bölüm sütun yap (row nowrap taşmasını önle) */
+#bottomRightWrapper {
+  display: flex !important;
+  flex-flow: row wrap !important;
+  gap: 12px !important;
+  align-items: flex-start !important;
+}
+
+/* Sosyal medya butonları — taşmasın */
+#bottomSocialLinks a {
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  justify-content: flex-start !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+
+/* ==== 7. FOOTER LOGO BANDI ==== */
+#bottomPartnerLinks {
+  display: flex !important;
+  flex-flow: column nowrap !important;
+  align-items: flex-start !important;
+  padding: 14px 16px !important;
+  box-sizing: border-box !important;
+  width: 100% !important;
+  overflow: hidden !important;
+}
+
+#bottomPartnerLinks .images {
+  display: flex !important;
+  align-items: center !important;
+  gap: 20px !important;
+  flex-wrap: wrap !important;
+  min-width: 0 !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin-bottom: 10px !important;
+}
+
+#bottomPartnerLinks .images a {
+  display: inline-flex !important;
+  align-items: center !important;
+  line-height: 1 !important;
+  flex-shrink: 0 !important;
+}
+
+#bottomPartnerLinks .images img {
+  display: block !important;
+  max-width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+
+/* SGB logosu: kare içinde yazıyla birlikte */
+#bottomPartnerLinks .images img[alt*="Siber"],
+#bottomPartnerLinks .images img[src*="SGB"] {
+  height: 44px !important;
+  width: auto !important;
+  max-width: 200px !important;
+}
+
+/* Türksat logosu */
+#bottomPartnerLinks .images img[alt*="Türksat"],
+#bottomPartnerLinks .images img[src*="turksat"] {
+  height: 32px !important;
+  width: auto !important;
+  max-width: 110px !important;
+}
+
+#bottomPartnerLinks .bottomPartnerText {
+  font-size: 12px !important;
+  line-height: 1.5 !important;
+  color: #fff !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  word-break: break-word !important;
+}
+
+/* ==== 8. SCROLL TO TOP ==== */
+.scroll-to-top-btn {
+  display: block !important;
+}
+
+/* ================================================================
+   RESPONSIVE — TABLET (≥768px)
+   ================================================================ */
+@media screen and (min-width: 768px) {
+
+  /* Header arama kutusu + giriş yap göster */
+  #top .headerGroup {
+    padding: 0 24px !important;
+  }
+  #brandingBlock #homeLink img,
+  #govtr-logo-img {
+    height: 64px !important;
+    width: auto !important;
+  }
+
+  /* Breadcrumb padding */
+  .breadcrumbBlock {
+    padding: 10px 24px !important;
+  }
+
+  /* Servis başlığı */
+  .tapu-service-card {
+    padding: 28px 28px 28px 28px !important;
+  }
+  .tapu-agency-info a.agency-name {
+    font-size: 16px !important;
+  }
+  .tapu-agency-info .service-name {
+    font-size: 22px !important;
+  }
+
+  /* Form container genişlet */
+  .tapu-page-bg,
+  #pageContentBlock,
+  #serviceBlock {
+    max-width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* Footer linkler — 2 sütun */
+  #bottomLinksBlock #bottomLinks {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 0 20px !important;
+  }
+
+  /* Stepper label görünür */
+  .webtapu-step-label {
+    display: inline !important;
+  }
+}
+
+/* ================================================================
+   RESPONSIVE — MASAÜSTÜ (≥1024px)
+   ================================================================ */
+@media screen and (min-width: 1024px) {
+
+  /* Header tam genişlik container */
+  #top .headerGroup {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 0 24px 0 32px !important;
+    width: 100% !important;
+  }
+
+  /* Desktop header aksiyonları göster, hamburger gizle */
+  #header-desktop-actions {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    margin-left: auto !important;
+    flex-shrink: 0 !important;
+  }
+  .resp-menu-btn {
+    display: none !important;
+  }
+
+  /* Logo biraz daha büyük */
+  #brandingBlock #homeLink img,
+  #govtr-logo-img {
+    height: 70px !important;
+    width: auto !important;
+  }
+
+  /* Breadcrumb container */
+  .breadcrumbBlock {
+    padding: 10px 0 !important;
+  }
+  .breadcrumbBlock .breadcrumb {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 0 32px !important;
+  }
+  /* Masaüstünde ellipsis kaldır — tam metin göster */
+  .breadcrumbNavigation li,
+  .breadcrumb li,
+  ol.breadcrumb li {
+    overflow: visible !important;
+    white-space: normal !important;
+    text-overflow: clip !important;
+    max-width: none !important;
+  }
+  .breadcrumbNavigation li a,
+  .breadcrumb a,
+  ol.breadcrumb a {
+    max-width: none !important;
+    overflow: visible !important;
+    white-space: nowrap !important;
+    text-overflow: clip !important;
+  }
+
+  /* Ana içerik merkezi hizalama */
+  .tapu-page-bg {
+    padding: 0 !important;
+    background: #ecf0f5 !important;
+  }
+
+  #pageContentBlock,
+  #serviceBlock {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    width: 100% !important;
+  }
+
+  /* Servis kartı */
+  .tapu-service-card {
+    padding: 32px 40px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+  }
+  .tapu-service-identity {
+    align-items: center !important;
+    gap: 18px !important;
+  }
+  .tapu-agency-logo {
+    width: 80px !important;
+    height: 80px !important;
+  }
+  .tapu-agency-info a.agency-name {
+    font-size: 17px !important;
+  }
+  .tapu-agency-info .service-name {
+    font-size: 24px !important;
+  }
+
+  /* Paylaş butonu — floating değil, sağa hizalı */
+  .tapu-share-float {
+    position: static !important;
+    margin-left: auto !important;
+    flex-shrink: 0 !important;
+  }
+
+  /* Stepper masaüstü */
+  .webtapu-flow {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 16px 40px 0 40px !important;
+    box-sizing: border-box !important;
+  }
+  .webtapu-steps {
+    gap: 0 !important;
+  }
+  .webtapu-step {
+    min-width: 80px !important;
+  }
+  .webtapu-step-label {
+    display: block !important;
+    font-size: 12px !important;
+  }
+
+  /* Form alanı masaüstü */
+  .webtapu-form-section {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 0 40px 40px 40px !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Footer linkleri — 5 sütun */
+  #bottomLinksGroup {
+    padding: 32px 0 !important;
+  }
+  #bottomLinksWrapper {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 0 32px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 32px !important;
+    align-items: flex-start !important;
+  }
+  #bottomLinksBlock {
+    flex: 1 !important;
+    min-width: 0 !important;
+  }
+  #bottomLinksBlock #bottomLinks {
+    display: grid !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+    gap: 0 8px !important;
+  }
+  #bottomLinksBlock .bottomLinksGroup h3 {
+    white-space: nowrap !important;
+    font-size: 13px !important;
+  }
+  #bottomLinksBlock .bottomLinksGroup li a {
+    white-space: nowrap !important;
+    font-size: 12px !important;
+  }
+  #bottomRightWrapper {
+    flex-shrink: 0 !important;
+    width: 310px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    gap: 12px !important;
+    align-items: flex-start !important;
+  }
+  #bottomContacts {
+    flex: 1 1 160px !important;
+    min-width: 160px !important;
+  }
+  #bottomSocialLinks {
+    flex: 0 0 auto !important;
+    width: auto !important;
+    min-width: 120px !important;
+    max-width: 160px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 4px !important;
+  }
+
+  /* Footer logo bandı */
+  #bottomPartnerLinks {
+    flex-flow: row nowrap !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    gap: 32px !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 16px 32px !important;
+  }
+  #bottomPartnerLinks .images {
+    flex-shrink: 0 !important;
+    width: auto !important;
+    min-width: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  #bottomPartnerLinks .bottomPartnerText {
+    flex: 1 !important;
+    width: auto !important;
+  }
+
+  /* Copyright */
+  #bottomCopyrightBlock {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 12px 32px !important;
+  }
+}
+
+/* ================================================================
+   RESPONSIVE — GENİŞ EKRAN (≥1400px)
+   ================================================================ */
+@media screen and (min-width: 1400px) {
+  #top .headerGroup,
+  .breadcrumbBlock .breadcrumb,
+  #pageContentBlock,
+  #serviceBlock,
+  .webtapu-flow,
+  .webtapu-form-section,
+  #bottomLinksWrapper,
+  #bottomPartnerLinks,
+  #bottomCopyrightBlock {
+    max-width: 1400px !important;
+  }
+}
+
+/* input[type="date"] mobil taşma ve Apple (iOS Safari) görünüm düzeltmesi */
+.webtapu-form input[type="date"] {
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+  background: #fff !important;
+  border: 1px solid #cfd8e3 !important;
+  border-radius: 0.5rem !important;
+  padding: 0.6rem 0.7rem !important;
+  height: 2.7rem !important; /* Select kutularıyla aynı yükseklik */
+  box-sizing: border-box !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  display: block !important;
+  font-family: inherit !important;
+  font-size: 16px !important; /* Mobil zoom önleyici */
+  color: #333 !important;
+}
+
+/* iOS Safari iç değer hizalama ve yükseklik düzeltmesi */
+.webtapu-form input[type="date"]::-webkit-date-and-time-value {
+  text-align: left !important;
+  min-height: 1.2em !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}

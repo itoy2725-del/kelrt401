@@ -1,0 +1,31 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * source-sans-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9acb59
+ *   - http://typekit.com/eulas/00000000000000003b9acb5a
+ *
+ * © 2009-2019 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-02-17 10:27:32 UTC"}*/
+
+@font-face {
+  font-family: "source-sans-pro";
+  src: url("../fonts/sourcepro-400.woff2") format("woff2"), url("../fonts/sourcepro-400.woff") format("woff"), url("../fonts/sourcepro-400") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "source-sans-pro";
+  src: url("../fonts/sourcepro-600.woff2") format("woff2"), url("../fonts/sourcepro-600.woff") format("woff"), url("../fonts/sourcepro-600") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+.tk-source-sans-pro {
+  font-family: "source-sans-pro", sans-serif;
+}

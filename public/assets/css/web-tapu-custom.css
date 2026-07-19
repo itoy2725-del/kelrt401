@@ -1,0 +1,483 @@
+.webtapu-flow {
+    max-width: 860px;
+    margin: 15px auto 15px auto;
+}
+
+.webtapu-steps {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+}
+
+.webtapu-step-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    position: relative;
+    z-index: 1;
+}
+
+.webtapu-step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .5rem;
+    padding: .75rem 1rem;
+    text-decoration: none;
+    color: #5d6b7a;
+    background: transparent;
+    border: none;
+    font-weight: 500;
+    font-size: .9rem;
+    transition: all .3s ease;
+    position: relative;
+    cursor: pointer;
+    min-width: 0;
+    flex: 1;
+}
+
+.webtapu-step:hover {
+    color: #1c3761;
+}
+
+.webtapu-step-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54px;
+    height: 54px;
+    min-width: 54px;
+    border-radius: 50%;
+    background: #e7ebee;
+    color: #5d6b7a;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1;
+    transition: all .3s ease;
+    border: 3px solid #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    position: relative;
+    z-index: 2;
+}
+
+.webtapu-step-number svg {
+    width: 18px;
+    height: 18px;
+    stroke-width: 2.5;
+}
+
+.webtapu-step-label {
+    text-align: center;
+    white-space: nowrap;
+    font-size: 1.05rem;
+    line-height: 1.3;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.webtapu-step.is-active {
+    color: #1c3761;
+}
+
+.webtapu-step.is-active .webtapu-step-number {
+    background: #1c3761;
+    color: #fff;
+    border-color: #fff;
+    box-shadow: 0 4px 12px rgba(28, 55, 97, .3);
+    transform: scale(1.1);
+}
+
+.webtapu-step.is-completed {
+    color: #2d7a4e;
+}
+
+.webtapu-step.is-completed .webtapu-step-number {
+    background: #2d7a4e;
+    color: #fff;
+    border-color: #fff;
+}
+
+.webtapu-step.is-completed:hover {
+    color: #1c5a3a;
+}
+
+.webtapu-step.is-completed:hover .webtapu-step-number {
+    background: #1c5a3a;
+    transform: scale(1.05);
+}
+
+.webtapu-step.is-disabled {
+    color: #9ca3af;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.webtapu-step.is-disabled .webtapu-step-number {
+    background: #e5e7eb;
+    color: #9ca3af;
+    border-color: #fff;
+}
+
+.webtapu-step-connector {
+    position: absolute;
+    top: 39px;
+    left: calc(50% + 27px);
+    width: calc(100% - 54px);
+    height: 3px;
+    background: #e7ebee;
+    z-index: 0;
+}
+
+.webtapu-step-connector.is-completed {
+    background: #2d7a4e;
+}
+
+@media (max-width: 48em) {
+    .webtapu-steps {
+        flex-wrap: nowrap;
+        gap: 1.5rem;
+        justify-content: center;
+        overflow-x: auto;
+        padding-bottom: .5rem;
+        margin-bottom: 0;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+    
+    .webtapu-steps::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .webtapu-step-wrapper {
+        flex: 0 0 auto;
+        min-width: 0;
+    }
+    
+    .webtapu-step-connector {
+        display: none;
+    }
+    
+    .webtapu-step {
+        flex-direction: column;
+        padding: .4rem .5rem;
+        gap: .35rem;
+        min-width: 70px;
+    }
+    
+    .webtapu-step-number {
+        width: 40px;
+        height: 40px;
+        min-width: 40px;
+        font-size: 1rem;
+        border-width: 2px;
+    }
+    
+    .webtapu-step-number svg {
+        width: 14px;
+        height: 14px;
+    }
+    
+    .webtapu-step-label {
+        font-size: .88rem;
+        white-space: nowrap;
+        text-align: center;
+        line-height: 1.1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100%;
+    }
+    
+    .webtapu-step.is-active .webtapu-step-number {
+        transform: scale(1.05);
+    }
+}
+
+@media (max-width: 30em) {
+    .webtapu-steps {
+        gap: 0.8rem;
+        margin-bottom: 0;
+        justify-content: center;
+    }
+    
+    .webtapu-step {
+        padding: .3rem .4rem;
+        gap: .25rem;
+        min-width: 60px;
+    }
+    
+    .webtapu-step-number {
+        width: 32px;
+        height: 32px;
+        min-width: 32px;
+        font-size: .9rem;
+    }
+    
+    .webtapu-step-number svg {
+        width: 14px;
+        height: 14px;
+    }
+    
+    .webtapu-step-label {
+        font-size: .75rem;
+        line-height: 1;
+    }
+    
+    .webtapu-step.is-active .webtapu-step-number {
+        transform: scale(1.08);
+    }
+}
+
+.webtapu-card {
+    border: 1px solid #dde6ee;
+    border-radius: .75rem;
+    padding: 1rem 1.25rem;
+    background: #fff;
+}
+
+.webtapu-card h3 {
+    margin-top: 0;
+}
+
+.webtapu-muted {
+    color: #5d6b7a;
+    margin-top: .25rem;
+}
+
+.webtapu-form label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: .35rem;
+}
+
+.webtapu-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .9rem 1rem;
+}
+
+.webtapu-field--wide {
+    grid-column: 1 / -1;
+}
+
+@media (max-width: 48em) {
+    .webtapu-card {
+        padding: .85rem 1.1rem;
+    }
+    .webtapu-grid {
+        grid-template-columns: 1fr;
+        gap: .65rem 1rem;
+    }
+    .webtapu-form input,
+    .webtapu-form select,
+    .webtapu-form textarea {
+        padding: .5rem .6rem !important;
+    }
+}
+
+@media (max-width: 30em) {
+    .webtapu-card {
+        padding: .75rem .9rem;
+    }
+    .webtapu-grid {
+        gap: .5rem 1rem;
+    }
+    .webtapu-form input,
+    .webtapu-form select,
+    .webtapu-form textarea {
+        padding: .45rem .5rem !important;
+        font-size: 15px !important;
+    }
+}
+
+.webtapu-form input,
+.webtapu-form select,
+.webtapu-form textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: .6rem .7rem;
+    border-radius: .5rem;
+    border: 1px solid #cfd8e3;
+    background: #fff;
+}
+
+.webtapu-actions {
+    display: flex;
+    gap: .75rem;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e7ebee;
+    flex-wrap: wrap;
+}
+
+.webtapu-actions .primaryButton,
+.webtapu-actions button[type="submit"].primaryButton {
+    border: none;
+    margin: 0;
+    padding: .5em 1.5em;
+    font-weight: 500;
+    font-size: 100%;
+    text-decoration: none;
+    background: #3b77ac;
+    color: #fff;
+    border-radius: 1.25em;
+    box-sizing: border-box;
+    height: 2.66em;
+    min-height: 2.66em;
+    border: 1px rgba(59, 119, 172, .3) solid;
+    box-shadow: inset 0 .05em 0 rgba(255, 255, 255, .3), 0 .5em .5em -.5em rgba(0, 0, 0, .25);
+    cursor: pointer;
+    transition: all .2s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-right: 2.5em;
+}
+
+.webtapu-actions .primaryButton::after {
+    content: "";
+    position: absolute;
+    right: .8em;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1.4em;
+    height: 1.1em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M12 5l7 7-7 7'/%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .9;
+}
+
+.webtapu-actions .primaryButton:hover,
+.webtapu-actions .primaryButton:focus {
+    background-color: #4284be;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: inset 0 .05em 0 rgba(255, 255, 255, .3), 0 .6em .6em -.5em rgba(0, 0, 0, .3);
+    transform: translateY(-1px);
+}
+
+.webtapu-actions .primaryButton:active {
+    transform: translateY(0);
+    box-shadow: inset 0 .05em 0 rgba(255, 255, 255, .2), 0 .3em .4em -.4em rgba(0, 0, 0, .2);
+}
+
+.webtapu-actions .primaryButton:focus {
+    outline: 2px solid #7eb7d6;
+    outline-offset: 2px;
+}
+
+.webtapu-actions .button,
+.webtapu-actions a.button,
+.webtapu-actions button.button {
+    border-radius: .25em;
+    box-sizing: border-box;
+    box-shadow: 0 1px 2px #a8acae;
+    border: 1px solid #a8acae;
+    padding: .5em 1em;
+    background-image: linear-gradient(to bottom, #FFF, #e7ebed);
+    color: #4a4e50;
+    height: 37.5px;
+    min-height: 37.5px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 100%;
+    cursor: pointer;
+    transition: all .2s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-left: 2.2em;
+}
+
+.webtapu-actions .button::before {
+    content: "";
+    position: absolute;
+    left: .7em;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1em;
+    height: 1em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234a4e50' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M19 12H5M12 19l-7-7 7-7'/%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .8;
+}
+
+.webtapu-actions .button:hover,
+.webtapu-actions .button:focus {
+    background-image: linear-gradient(to bottom, #f5f7f8, #e7ebed);
+    color: #3a89b4;
+    text-decoration: none;
+    border-color: #3a89b4;
+    box-shadow: 0 2px 4px rgba(58, 137, 180, .2);
+}
+
+.webtapu-actions .button:hover::before,
+.webtapu-actions .button:focus::before {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%233a89b4' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M19 12H5M12 19l-7-7 7-7'/%3E%3C/svg%3E");
+}
+
+.webtapu-actions .button:active {
+    background-image: linear-gradient(to bottom, #e7ebed, #d1d5d9);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+}
+
+.webtapu-actions .button:focus {
+    outline: 2px solid #7eb7d6;
+    outline-offset: 2px;
+}
+
+@media (max-width: 48em) {
+    .webtapu-actions {
+        flex-direction: column-reverse;
+        align-items: stretch;
+    }
+    
+    .webtapu-actions .primaryButton,
+    .webtapu-actions .button {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .webtapu-actions .primaryButton::after {
+        right: 1em;
+    }
+    
+    .webtapu-actions .button::before {
+        left: 1em;
+    }
+}
+
+.webtapu-summary {
+    margin-top: .9rem;
+    padding: .75rem .9rem;
+    border-radius: .6rem;
+    background: #f8fcff;
+    border: 1px solid #bed8e6;
+    display: grid;
+    gap: .25rem;
+}
+
+.webtapu-footnote {
+    margin-top: .75rem;
+    font-size: .95rem;
+    color: #6b7785;
+}
+
+.webtapu-receipt {
+    margin: .5rem 0 0 1rem;
+}
+

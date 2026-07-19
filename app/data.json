@@ -1,0 +1,5679 @@
+{
+  "data": [
+    {
+      "il_adi": "Adana",
+      "plaka_kodu": " 01",
+      "alan_kodu": "0322",
+      "bolge": "Akdeniz",
+      "yuzolcumu": "13.844",
+      "ilceler": [
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1757",
+  "il_adi": "ADANA",
+  "ilce_adi": "ALADAĞ"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1219",
+  "il_adi": "ADANA",
+  "ilce_adi": "CEYHAN"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "2033",
+  "il_adi": "ADANA",
+  "ilce_adi": "ÇUKUROVA"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1329",
+  "il_adi": "ADANA",
+  "ilce_adi": "FEKE"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1806",
+  "il_adi": "ADANA",
+  "ilce_adi": "İMAMOĞLU"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1437",
+  "il_adi": "ADANA",
+  "ilce_adi": "KARAİSALI"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1443",
+  "il_adi": "ADANA",
+  "ilce_adi": "KARATAŞ"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1486",
+  "il_adi": "ADANA",
+  "ilce_adi": "KOZAN"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1580",
+  "il_adi": "ADANA",
+  "ilce_adi": "POZANTI"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1588",
+  "il_adi": "ADANA",
+  "ilce_adi": "SAİMBEYLİ"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "2032",
+  "il_adi": "ADANA",
+  "ilce_adi": "SARIÇAM"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1104",
+  "il_adi": "ADANA",
+  "ilce_adi": "SEYHAN"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1687",
+  "il_adi": "ADANA",
+  "ilce_adi": "TUFANBEYLİ"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1734",
+  "il_adi": "ADANA",
+  "ilce_adi": "YUMURTALIK"},
+{
+  "plaka_kodu": "1",
+  "ilce_kodu": "1748",
+  "il_adi": "ADANA",
+  "ilce_adi": "YÜREĞİR"}
+      ],
+      "kisa_bilgi": "Ülkenin en büyük şehirlerinden biri olan Adana, Toros dağlarının güneyinde bulunan ve Mersin, Osmaniye, Hatay illerini içine alan Çukurova'nın merkezinde, Seyhan nehri üzerinde yer alır"
+    },
+    {
+      "il_adi": "Adıyaman",
+      "plaka_kodu": "02",
+      "alan_kodu": "416",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "7.337",
+      "ilceler": [
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1105",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1182",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "BESNİ"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1246",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "ÇELİKHAN"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1347",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "GERGER"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1354",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "GÖLBAŞI"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1425",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "KAHTA"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1592",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "SAMSAT"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1985",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "SİNCİK"},
+{
+  "plaka_kodu": "2",
+  "ilce_kodu": "1989",
+  "il_adi": "ADIYAMAN",
+  "ilce_adi": "TUT"}
+      ],
+      "kisa_bilgi": "Güneydoğu Anadolu Bölgesinin Batısında Akdeniz Bölgesiyle birleşen noktada yer alan Adıyaman, 16 farklı medeniyete ev sahipliği yapmış, tarihin bilinen en eski yerleşim yerlerinden biri."
+    },
+    {
+      "il_adi": "Afyonkarahisar",
+      "plaka_kodu": "03",
+      "alan_kodu": "272",
+      "bolge": "Ege",
+      "yuzolcumu": "14.016",
+      "ilceler": [
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1108",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1771",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "BAŞMAKÇI"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1773",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "BAYAT"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1200",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "BOLVADİN"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1239",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "ÇAY"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1906",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "ÇOBANLAR"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1267",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "DAZKIRI"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1281",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "DİNAR"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1306",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "EMİRDAĞ"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1923",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "EVCİLER"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1944",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "HOCALAR"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1404",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "İHSANİYE"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1809",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "İSCEHİSAR"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1961",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "KIZILÖREN"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1594",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "SANDIKLI"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1626",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "SİNANPAŞA"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1639",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "SULTANDAĞI"},
+{
+  "plaka_kodu": "3",
+  "ilce_kodu": "1664",
+  "il_adi": "AFYONKARAHİSAR",
+  "ilce_adi": "ŞUHUT"}
+      ],
+      "kisa_bilgi": "Afyonkarahisar ın büyük bir bölümü Ege Bölgesinin iç batı olarak adlandırılan kesiminde yer alır. Türkiye'de kaplıca ve ılıca yönünden en önemli şehirlerden biri olan Afyonkarahisar'da, dört tane termal turizm merkezi var."
+    },
+    {
+      "il_adi": "Ağrı",
+      "plaka_kodu": "04",
+      "alan_kodu": "472",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "11.099",
+      "ilceler": [
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1111",
+  "il_adi": "AĞRI",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1283",
+  "il_adi": "AĞRI",
+  "ilce_adi": "DİYADİN"},
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1287",
+  "il_adi": "AĞRI",
+  "ilce_adi": "DOĞUBAYAZIT"},
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1301",
+  "il_adi": "AĞRI",
+  "ilce_adi": "ELEŞKİRT"},
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1379",
+  "il_adi": "AĞRI",
+  "ilce_adi": "HAMUR"},
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1568",
+  "il_adi": "AĞRI",
+  "ilce_adi": "PATNOS"},
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1667",
+  "il_adi": "AĞRI",
+  "ilce_adi": "TAŞLIÇAY"},
+{
+  "plaka_kodu": "4",
+  "ilce_kodu": "1691",
+  "il_adi": "AĞRI",
+  "ilce_adi": "TUTAK"}
+      ],
+      "kisa_bilgi": "Ağrı, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan bir ildir. Adını kısmen sınırları içerisinde bulunan Ağrı Dağı'ndan almıştır."
+    },
+    {
+      "il_adi": "Amasya",
+      "plaka_kodu": "05",
+      "alan_kodu": "358",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "5.628",
+      "ilceler": [
+{
+  "plaka_kodu": "5",
+  "ilce_kodu": "1134",
+  "il_adi": "AMASYA",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "5",
+  "ilce_kodu": "1363",
+  "il_adi": "AMASYA",
+  "ilce_adi": "GÖYNÜCEK"},
+{
+  "plaka_kodu": "5",
+  "ilce_kodu": "1368",
+  "il_adi": "AMASYA",
+  "ilce_adi": "GÜMÜŞHACIKÖY"},
+{
+  "plaka_kodu": "5",
+  "ilce_kodu": "1938",
+  "il_adi": "AMASYA",
+  "ilce_adi": "HAMAMÖZÜ"},
+{
+  "plaka_kodu": "5",
+  "ilce_kodu": "1524",
+  "il_adi": "AMASYA",
+  "ilce_adi": "MERZİFON"},
+{
+  "plaka_kodu": "5",
+  "ilce_kodu": "1641",
+  "il_adi": "AMASYA",
+  "ilce_adi": "SULUOVA"},
+{
+  "plaka_kodu": "5",
+  "ilce_kodu": "1668",
+  "il_adi": "AMASYA",
+  "ilce_adi": "TAŞOVA"}
+      ],
+      "kisa_bilgi": "7500 yıllık bir geçmişe sahip, ülkemizin önemli kültür, turizm ve tarih merkezlerinden biri olan şehir, bilindiği gibi misket elmasıyla meşhur. Sert, küçük ve tatlı olan, kendine has bir koku ve lezzete sahip bu elma oldukça dayanıklıdır."
+    },
+    {
+      "il_adi": "Ankara",
+      "plaka_kodu": "06",
+      "alan_kodu": "312",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "25.632",
+      "ilceler": [
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1872",
+  "il_adi": "ANKARA",
+  "ilce_adi": "AKYURT"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1130",
+  "il_adi": "ANKARA",
+  "ilce_adi": "ALTINDAĞ"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1157",
+  "il_adi": "ANKARA",
+  "ilce_adi": "AYAŞ"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1167",
+  "il_adi": "ANKARA",
+  "ilce_adi": "BALA"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1187",
+  "il_adi": "ANKARA",
+  "ilce_adi": "BEYPAZARI"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1227",
+  "il_adi": "ANKARA",
+  "ilce_adi": "ÇAMLIDERE"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1231",
+  "il_adi": "ANKARA",
+  "ilce_adi": "ÇANKAYA"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1260",
+  "il_adi": "ANKARA",
+  "ilce_adi": "ÇUBUK"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1302",
+  "il_adi": "ANKARA",
+  "ilce_adi": "ELMADAĞ"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1922",
+  "il_adi": "ANKARA",
+  "ilce_adi": "ETİMESGUT"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1924",
+  "il_adi": "ANKARA",
+  "ilce_adi": "EVREN"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1744",
+  "il_adi": "ANKARA",
+  "ilce_adi": "GÖLBAŞI"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1365",
+  "il_adi": "ANKARA",
+  "ilce_adi": "GÜDÜL"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1387",
+  "il_adi": "ANKARA",
+  "ilce_adi": "HAYMANA"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1815",
+  "il_adi": "ANKARA",
+  "ilce_adi": "KAHRAMANKAZAN"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1427",
+  "il_adi": "ANKARA",
+  "ilce_adi": "KALECİK"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1745",
+  "il_adi": "ANKARA",
+  "ilce_adi": "KEÇİÖREN"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1473",
+  "il_adi": "ANKARA",
+  "ilce_adi": "KIZILCAHAMAM"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1746",
+  "il_adi": "ANKARA",
+  "ilce_adi": "MAMAK"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1539",
+  "il_adi": "ANKARA",
+  "ilce_adi": "NALLIHAN"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1578",
+  "il_adi": "ANKARA",
+  "ilce_adi": "POLATLI"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "2034",
+  "il_adi": "ANKARA",
+  "ilce_adi": "PURSAKLAR"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1747",
+  "il_adi": "ANKARA",
+  "ilce_adi": "SİNCAN"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1658",
+  "il_adi": "ANKARA",
+  "ilce_adi": "ŞEREFLİKOÇHİSAR"},
+{
+  "plaka_kodu": "6",
+  "ilce_kodu": "1723",
+  "il_adi": "ANKARA",
+  "ilce_adi": "YENİMAHALLE"}
+      ],
+      "kisa_bilgi": "Bolu, Çankırı, Kırıkkale, Kırşehir, Aksaray, Konya ve Eskişehir illeri ile çevrili ve Türkiye'nin başkenti Ankara, Cumhuriyetin kuruluşundan bu yana hızla gelişme göstermiştir. Şehrin amblemi, Hitit uygarlığının da simgesi olan Hitit Güneş Kursu'dur."
+    },
+    {
+      "il_adi": "Antalya",
+      "plaka_kodu": "07",
+      "alan_kodu": "242",
+      "bolge": "Akdeniz",
+      "yuzolcumu": "20.177",
+      "ilceler": [
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1121",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "AKSEKİ"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "2035",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "AKSU"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1126",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "ALANYA"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1811",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "DEMRE"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "2036",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "DÖŞEMEALTI"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1303",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "ELMALI"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1333",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "FİNİKE"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1337",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "GAZİPAŞA"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1370",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "GÜNDOĞMUŞ"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1946",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "İBRADI"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1451",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "KAŞ"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1959",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "KEMER"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "2037",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "KEPEZ"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "2038",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "KONYAALTI"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1483",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "KORKUTELİ"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1492",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "KUMLUCA"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1512",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "MANAVGAT"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "2039",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "MURATPAŞA"},
+{
+  "plaka_kodu": "7",
+  "ilce_kodu": "1616",
+  "il_adi": "ANTALYA",
+  "ilce_adi": "SERİK"}
+      ],
+      "kisa_bilgi": "Akdeniz bölgesinin batısında ve Antalya Körfezi ile Batı Toroslar arasında yer alan Antalya, özellikle turizmin etkisiyle hızla nüfus alan ve gelişen, en güzel şehirlerimizden biridir."
+    },
+    {
+      "il_adi": "Artvin",
+      "plaka_kodu": "08",
+      "alan_kodu": "466",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "7.393",
+      "ilceler": [
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1152",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1145",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "ARDANUÇ"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1147",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "ARHAVİ"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1202",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "BORÇKA"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1395",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "HOPA"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "2105",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "KEMALPAŞA"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1828",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "MURGUL"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1653",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "ŞAVŞAT"},
+{
+  "plaka_kodu": "8",
+  "ilce_kodu": "1736",
+  "il_adi": "ARTVİN",
+  "ilce_adi": "YUSUFELİ"}
+      ],
+      "kisa_bilgi": "Ülkemizin Gürcistan ile sınırında bulunan, Doğu Karadeniz bölümündeki bu yeşil şehir, kültürel olarak rengarenk. Nüfus Hemşinliler, Gürcüler, Lazlar ile Ahıska ve Kıpçak Türklerinden meydana geliyor."
+    },
+    {
+      "il_adi": "Aydın",
+      "plaka_kodu": "09",
+      "alan_kodu": "256",
+      "bolge": "Ege",
+      "yuzolcumu": "8.116",
+      "ilceler": [
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1206",
+  "il_adi": "AYDIN",
+  "ilce_adi": "BOZDOĞAN"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1781",
+  "il_adi": "AYDIN",
+  "ilce_adi": "BUHARKENT"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1256",
+  "il_adi": "AYDIN",
+  "ilce_adi": "ÇİNE"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "2000",
+  "il_adi": "AYDIN",
+  "ilce_adi": "DİDİM"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "2076",
+  "il_adi": "AYDIN",
+  "ilce_adi": "EFELER"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1348",
+  "il_adi": "AYDIN",
+  "ilce_adi": "GERMENCİK"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1807",
+  "il_adi": "AYDIN",
+  "ilce_adi": "İNCİRLİOVA"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1435",
+  "il_adi": "AYDIN",
+  "ilce_adi": "KARACASU"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1957",
+  "il_adi": "AYDIN",
+  "ilce_adi": "KARPUZLU"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1479",
+  "il_adi": "AYDIN",
+  "ilce_adi": "KOÇARLI"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1968",
+  "il_adi": "AYDIN",
+  "ilce_adi": "KÖŞK"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1497",
+  "il_adi": "AYDIN",
+  "ilce_adi": "KUŞADASI"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1498",
+  "il_adi": "AYDIN",
+  "ilce_adi": "KUYUCAK"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1542",
+  "il_adi": "AYDIN",
+  "ilce_adi": "NAZİLLİ"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1637",
+  "il_adi": "AYDIN",
+  "ilce_adi": "SÖKE"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1640",
+  "il_adi": "AYDIN",
+  "ilce_adi": "SULTANHİSAR"},
+{
+  "plaka_kodu": "9",
+  "ilce_kodu": "1724",
+  "il_adi": "AYDIN",
+  "ilce_adi": "YENİPAZAR"}
+      ],
+      "kisa_bilgi": "Turizm ve tarım sektörlerinde ülkenin önemli illerinden biri olan Aydın, aynı zamanda Türkiye'nin ilk demiryolu kurulan şehridir. Kuzeyinde İzmir, Manisa, doğusunda Denizli, güneyinde Muğla ile çevrili il, çok önemli turistik mekanlara, plajlara, antik kentlere evsahipliği yapar."
+    },
+    {
+      "il_adi": "Balıkesir",
+      "plaka_kodu": "10",
+      "alan_kodu": "266",
+      "bolge": "Marmara",
+      "yuzolcumu": "14.583",
+      "ilceler": [
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "2077",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "ALTIEYLÜL"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1161",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "AYVALIK"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1169",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "BALYA"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1171",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "BANDIRMA"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1191",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "BİGADİÇ"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1216",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "BURHANİYE"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1291",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "DURSUNBEY"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1294",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "EDREMİT"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1310",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "ERDEK"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1928",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "GÖMEÇ"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1360",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "GÖNEN"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1384",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "HAVRAN"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1418",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "İVRİNDİ"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "2078",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "KARESİ"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1462",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "KEPSUT"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1514",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "MANYAS"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1824",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "MARMARA"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1608",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "SAVAŞTEPE"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1619",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "SINDIRGI"},
+{
+  "plaka_kodu": "10",
+  "ilce_kodu": "1644",
+  "il_adi": "BALIKESİR",
+  "ilce_adi": "SUSURLUK"}
+      ],
+      "kisa_bilgi": "Hem Marmara hem de Ege Denizi'ne kıyısı olan, topraklarının büyük kısmı Güney Marmara bölümünde yer alan Balıkesir, Ayvalık, Altınoluk, Avşa Adası, Cunda, Gönen, Edremit, Manyas, Susurluk gibi turistik mekânlara sahiptir."
+    },
+    {
+      "il_adi": "Bilecik",
+      "plaka_kodu": "11",
+      "alan_kodu": "228",
+      "bolge": "Marmara",
+      "yuzolcumu": "4.179",
+      "ilceler": [
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1192",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1210",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "BOZÜYÜK"},
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1359",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "GÖLPAZARI"},
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1948",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "İNHİSAR"},
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1559",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "OSMANELİ"},
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1571",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "PAZARYERİ"},
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1636",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "SÖĞÜT"},
+{
+  "plaka_kodu": "11",
+  "ilce_kodu": "1857",
+  "il_adi": "BİLECİK",
+  "ilce_adi": "YENİPAZAR"}
+      ],
+      "kisa_bilgi": "Marmara Bölgesi’nin güneydoğusunda yer alan ve ilk yerleşimin M.Ö. 3 bin yılına dek uzandığı Bilecik, aynı zamanda Osmanlı’nın doğduğu topraklardır. "
+    },
+    {
+      "il_adi": "Bingöl",
+      "plaka_kodu": "12",
+      "alan_kodu": "426",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "8.004",
+      "ilceler": [
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1193",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1750",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "ADAKLI"},
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1344",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "GENÇ"},
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1446",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "KARLIOVA"},
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1475",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "KİĞI"},
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1633",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "SOLHAN"},
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1855",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "YAYLADERE"},
+{
+  "plaka_kodu": "12",
+  "ilce_kodu": "1996",
+  "il_adi": "BİNGÖL",
+  "ilce_adi": "YEDİSU"}
+      ],
+      "kisa_bilgi": "Doğu Anadolu bölgesindeki ilimiz Bingöl, doğal ve tarihi güzellikleriyle yerli ve yabancı turistlerin ilgisini çekecek potansiyele sahip."
+    },
+    {
+      "il_adi": "Bitlis",
+      "plaka_kodu": "13",
+      "alan_kodu": "434",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "8.294",
+      "ilceler": [
+{
+  "plaka_kodu": "13",
+  "ilce_kodu": "1196",
+  "il_adi": "BİTLİS",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "13",
+  "ilce_kodu": "1106",
+  "il_adi": "BİTLİS",
+  "ilce_adi": "ADİLCEVAZ"},
+{
+  "plaka_kodu": "13",
+  "ilce_kodu": "1112",
+  "il_adi": "BİTLİS",
+  "ilce_adi": "AHLAT"},
+{
+  "plaka_kodu": "13",
+  "ilce_kodu": "1798",
+  "il_adi": "BİTLİS",
+  "ilce_adi": "GÜROYMAK"},
+{
+  "plaka_kodu": "13",
+  "ilce_kodu": "1394",
+  "il_adi": "BİTLİS",
+  "ilce_adi": "HİZAN"},
+{
+  "plaka_kodu": "13",
+  "ilce_kodu": "1537",
+  "il_adi": "BİTLİS",
+  "ilce_adi": "MUTKİ"},
+{
+  "plaka_kodu": "13",
+  "ilce_kodu": "1669",
+  "il_adi": "BİTLİS",
+  "ilce_adi": "TATVAN"}
+      ],
+      "kisa_bilgi": "Tarihte Urartuların yerleşim yeri olmuş, 1514 yılında Osmanlı egemenliğine giren Bitlis, en çok Tatvan’dan ulaşılabilecek Nemrut Yanardağı ve Nemrut Krater Gölü ile turistlerin ilgisini çekiyor. "
+    },
+    {
+      "il_adi": "Bolu",
+      "plaka_kodu": "14",
+      "alan_kodu": "374",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "8.313",
+      "ilceler": [
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1199",
+  "il_adi": "BOLU",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1916",
+  "il_adi": "BOLU",
+  "ilce_adi": "DÖRTDİVAN"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1346",
+  "il_adi": "BOLU",
+  "ilce_adi": "GEREDE"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1364",
+  "il_adi": "BOLU",
+  "ilce_adi": "GÖYNÜK"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1466",
+  "il_adi": "BOLU",
+  "ilce_adi": "KIBRISCIK"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1522",
+  "il_adi": "BOLU",
+  "ilce_adi": "MENGEN"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1531",
+  "il_adi": "BOLU",
+  "ilce_adi": "MUDURNU"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1610",
+  "il_adi": "BOLU",
+  "ilce_adi": "SEBEN"},
+{
+  "plaka_kodu": "14",
+  "ilce_kodu": "1997",
+  "il_adi": "BOLU",
+  "ilce_adi": "YENİÇAĞA"}
+      ],
+      "kisa_bilgi": "Batı Karadeniz’de bulunan yemyeşil doğası, tertemiz havası ve su kaynaklarıyla dikkat çeken Bolu’da, Abant Gölü ve Yedigöller Milli Parkı en turistik yerler arasında."
+    },
+    {
+      "il_adi": "Burdur",
+      "plaka_kodu": "15",
+      "alan_kodu": "248",
+      "bolge": "Akdeniz",
+      "yuzolcumu": "7.175",
+      "ilceler": [
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1215",
+  "il_adi": "BURDUR",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1109",
+  "il_adi": "BURDUR",
+  "ilce_adi": "AĞLASUN"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1874",
+  "il_adi": "BURDUR",
+  "ilce_adi": "ALTINYAYLA"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1211",
+  "il_adi": "BURDUR",
+  "ilce_adi": "BUCAK"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1899",
+  "il_adi": "BURDUR",
+  "ilce_adi": "ÇAVDIR"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1903",
+  "il_adi": "BURDUR",
+  "ilce_adi": "ÇELTİKÇİ"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1357",
+  "il_adi": "BURDUR",
+  "ilce_adi": "GÖLHİSAR"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1813",
+  "il_adi": "BURDUR",
+  "ilce_adi": "KARAMANLI"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1816",
+  "il_adi": "BURDUR",
+  "ilce_adi": "KEMER"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1672",
+  "il_adi": "BURDUR",
+  "ilce_adi": "TEFENNİ"},
+{
+  "plaka_kodu": "15",
+  "ilce_kodu": "1728",
+  "il_adi": "BURDUR",
+  "ilce_adi": "YEŞİLOVA"}
+      ],
+      "kisa_bilgi": "Akdeniz Bölgesinde, Orta ve Batı Anadolu’yu Akdeniz’e bağlayan yolların kavşağında yer alan Burdur, bu özelliğiyle tarih boyunca çeşitli uygarlıkların da kavşağı konumunda olmuştur. "
+    },
+    {
+      "il_adi": "Bursa",
+      "plaka_kodu": "16",
+      "alan_kodu": "224",
+      "bolge": "Marmara",
+      "yuzolcumu": "10.813",
+      "ilceler": [
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1783",
+  "il_adi": "BURSA",
+  "ilce_adi": "BÜYÜKORHAN"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1343",
+  "il_adi": "BURSA",
+  "ilce_adi": "GEMLİK"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1935",
+  "il_adi": "BURSA",
+  "ilce_adi": "GÜRSU"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1799",
+  "il_adi": "BURSA",
+  "ilce_adi": "HARMANCIK"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1411",
+  "il_adi": "BURSA",
+  "ilce_adi": "İNEGÖL"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1420",
+  "il_adi": "BURSA",
+  "ilce_adi": "İZNİK"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1434",
+  "il_adi": "BURSA",
+  "ilce_adi": "KARACABEY"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1457",
+  "il_adi": "BURSA",
+  "ilce_adi": "KELES"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1960",
+  "il_adi": "BURSA",
+  "ilce_adi": "KESTEL"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1530",
+  "il_adi": "BURSA",
+  "ilce_adi": "MUDANYA"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1535",
+  "il_adi": "BURSA",
+  "ilce_adi": "MUSTAFAKEMALPAŞA"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1829",
+  "il_adi": "BURSA",
+  "ilce_adi": "NİLÜFER"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1553",
+  "il_adi": "BURSA",
+  "ilce_adi": "ORHANELİ"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1554",
+  "il_adi": "BURSA",
+  "ilce_adi": "ORHANGAZİ"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1832",
+  "il_adi": "BURSA",
+  "ilce_adi": "OSMANGAZİ"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1725",
+  "il_adi": "BURSA",
+  "ilce_adi": "YENİŞEHİR"},
+{
+  "plaka_kodu": "16",
+  "ilce_kodu": "1859",
+  "il_adi": "BURSA",
+  "ilce_adi": "YILDIRIM"}
+      ],
+      "kisa_bilgi": "Akdeniz Bölgesinde, Orta ve Batı Anadolu’yu Akdeniz’e bağlayan yolların kavşağında yer alan Burdur, bu özelliğiyle tarih boyunca çeşitli uygarlıkların da kavşağı konumunda olmuştur. "
+    },
+    {
+      "il_adi": "Çanakkale",
+      "plaka_kodu": "17",
+      "alan_kodu": "286",
+      "bolge": "Ege",
+      "yuzolcumu": "9.817",
+      "ilceler": [
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1230",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1160",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "AYVACIK"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1180",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "BAYRAMİÇ"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1190",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "BİGA"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1205",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "BOZCAADA"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1229",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "ÇAN"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1293",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "ECEABAT"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1326",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "EZİNE"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1340",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "GELİBOLU"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1408",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "GÖKÇEADA"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1503",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "LAPSEKİ"},
+{
+  "plaka_kodu": "17",
+  "ilce_kodu": "1722",
+  "il_adi": "ÇANAKKALE",
+  "ilce_adi": "YENİCE"}
+      ],
+      "kisa_bilgi": "Kuzeybatı Anadolu’da, Troya kalıntılarının yer aldığı, binlerce yıllık tarihi mirası, doğal güzellikleriyle en güzel şehirlerimizden biri olan Çanakkale’de, 1963 yılından bu yana her ağustos ayında Uluslararası Troia Festivali düzenleniyor. Truva filminin setinde kullanılan ve şehre hediye edilen Truva Atı, merkezde görülebilir."
+    },
+    {
+      "il_adi": "Çankırı",
+      "plaka_kodu": "18",
+      "alan_kodu": "376",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "7.542",
+      "ilceler": [
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1232",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1765",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "ATKARACALAR"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1885",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "BAYRAMÖREN"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1248",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "ÇERKEŞ"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1300",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "ELDİVAN"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1399",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "ILGAZ"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1817",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "KIZILIRMAK"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1963",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "KORGUN"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1494",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "KURŞUNLU"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1555",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "ORTA"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1649",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "ŞABANÖZÜ"},
+{
+  "plaka_kodu": "18",
+  "ilce_kodu": "1718",
+  "il_adi": "ÇANKIRI",
+  "ilce_adi": "YAPRAKLI"}
+      ],
+      "kisa_bilgi": "Tarihi M.Ö. 5 bin yılına dek uzanan Çankırı, İç Anadolu’nun kuzey ucunda bulunuyor."
+    },
+    {
+      "il_adi": "Çorum",
+      "plaka_kodu": "19",
+      "alan_kodu": "364",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "12.428",
+      "ilceler": [
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1259",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1124",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "ALACA"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1177",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "BAYAT"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1778",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "BOĞAZKALE"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1911",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "DODURGA"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1414",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "İSKİLİP"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1445",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "KARGI"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1972",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "LAÇİN"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1520",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "MECİTÖZÜ"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1976",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "OĞUZLAR"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1556",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "ORTAKÖY"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1558",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "OSMANCIK"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1642",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "SUNGURLU"},
+{
+  "plaka_kodu": "19",
+  "ilce_kodu": "1850",
+  "il_adi": "ÇORUM",
+  "ilce_adi": "UĞURLUDAĞ"}
+      ],
+      "kisa_bilgi": "Pek çok medeniyete ev sahipliği yapmış, M.Ö. 4000 yılına dek uzanan yerleşim izlerine rastlanan, İç Orta Karadeniz bölgesinde, leblebisiyle meşhur bu ilimiz, ova ve akarsu zenginliğiyle dikkat çekiyor."
+    },
+    {
+      "il_adi": "Denizli",
+      "plaka_kodu": "20",
+      "alan_kodu": "258",
+      "bolge": "Ege",
+      "yuzolcumu": "12.134",
+      "ilceler": [
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1102",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "ACIPAYAM"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1769",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "BABADAĞ"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1881",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "BAKLAN"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1774",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "BEKİLLİ"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1888",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "BEYAĞAÇ"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1889",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "BOZKURT"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1214",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "BULDAN"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1224",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "ÇAL"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1226",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "ÇAMELİ"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1233",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "ÇARDAK"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1257",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "ÇİVRİL"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1371",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "GÜNEY"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1803",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "HONAZ"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1426",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "KALE"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "2079",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "MERKEZEFENDİ"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1871",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "PAMUKKALE"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1597",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "SARAYKÖY"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1840",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "SERİNHİSAR"},
+{
+  "plaka_kodu": "20",
+  "ilce_kodu": "1670",
+  "il_adi": "DENİZLİ",
+  "ilce_adi": "TAVAS"}
+      ],
+      "kisa_bilgi": "Denizli ili sanayisi ve turizmi ile Türkiyenin önemli şehirlerindendir. Tekstilin başkentidir. İhracatta ülke ekonomisine önemli katkılar sağlamıştır. İhracatta Türkiye 7. sidir. Türkiye de gelen turist sayısı olarak 5. il konumundadır."
+    },
+    {
+      "il_adi": "Diyarbakır",
+      "plaka_kodu": "21",
+      "alan_kodu": "412",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "15.168",
+      "ilceler": [
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "2040",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "BAĞLAR"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1195",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "BİSMİL"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1249",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "ÇERMİK"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1253",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "ÇINAR"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1263",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "ÇÜNGÜŞ"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1278",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "DİCLE"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1791",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "EĞİL"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1315",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "ERGANİ"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1381",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "HANİ"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1389",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "HAZRO"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "2041",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "KAYAPINAR"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1962",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "KOCAKÖY"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1490",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "KULP"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1504",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "LİCE"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "1624",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "SİLVAN"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "2042",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "SUR"},
+{
+  "plaka_kodu": "21",
+  "ilce_kodu": "2043",
+  "il_adi": "DİYARBAKIR",
+  "ilce_adi": "YENİŞEHİR"}
+      ],
+      "kisa_bilgi": "Tarihi surları, Ulucamisi, Dört Ayaklı Minaresi, binlerce yıllık geçmişiyle ülkemizin en güzel şehirlerinden biri olan Diyarbakır, Mezopotamya ile Anadolu medeniyetlerinin geçiş bölgesinde yer alır."
+    },
+    {
+      "il_adi": "Edirne",
+      "plaka_kodu": "22",
+      "alan_kodu": "284",
+      "bolge": "Marmara",
+      "yuzolcumu": "6.145",
+      "ilceler": [
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1295",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1307",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "ENEZ"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1385",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "HAVSA"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1412",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "İPSALA"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1464",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "KEŞAN"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1502",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "LALAPAŞA"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1523",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "MERİÇ"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1988",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "SÜLOĞLU"},
+{
+  "plaka_kodu": "22",
+  "ilce_kodu": "1705",
+  "il_adi": "EDİRNE",
+  "ilce_adi": "UZUNKÖPRÜ"}
+      ],
+      "kisa_bilgi": "Bademli kavala kurabiyesi, enfes badem ezmesi, meyve sabunları ve peyniri ile meşhur, Trak uygarlığına ilk kez ev sahipliği yaptığı düşünülen Edirne, 1365 yılında Osmanlı’nın başkenti olmuştur."
+    },
+    {
+      "il_adi": "Elazığ",
+      "plaka_kodu": "23",
+      "alan_kodu": "424",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "9.383",
+      "ilceler": [
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1298",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1110",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "AĞIN"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1873",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "ALACAKAYA"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1762",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "ARICAK"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1173",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "BASKİL"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1438",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "KARAKOÇAN"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1455",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "KEBAN"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1820",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "KOVANCILAR"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1506",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "MADEN"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1566",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "PALU"},
+{
+  "plaka_kodu": "23",
+  "ilce_kodu": "1631",
+  "il_adi": "ELAZIĞ",
+  "ilce_adi": "SİVRİCE"}
+      ],
+      "kisa_bilgi": "Doğu Anadolu Bölgesi'nin Yukarı Fırat Havzasında bulunan, ülkemizin önemli barajlarından biri olan Keban Barajı ile Hazar Gölü’nün ve doğa harikası Buzluk Mağarası’nın bulunduğu Elazığ, Harput’un devamı niteliğindedir."
+    },
+    {
+      "il_adi": "Erzincan",
+      "plaka_kodu": "24",
+      "alan_kodu": "446",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "11.815",
+      "ilceler": [
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1318",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1243",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "ÇAYIRLI"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1406",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "İLİÇ"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1459",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "KEMAH"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1460",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "KEMALİYE"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1977",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "OTLUKBELİ"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1583",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "REFAHİYE"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1675",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "TERCAN"},
+{
+  "plaka_kodu": "24",
+  "ilce_kodu": "1853",
+  "il_adi": "ERZİNCAN",
+  "ilce_adi": "ÜZÜMLÜ"}
+      ],
+      "kisa_bilgi": "Tarihi İpek Yolu üzerinde yer alan ve ülkemizin Doğu Anadolu Yukarı Fırat bölümünde bulunan Erzincan, tarih boyunca farklı medeniyetlere ev sahipliği yapan önemli bir yer olmuştur. Altıntepe’de yer alan Urartu kalıntıları şehrin tarihi hakkında fikir verecektir."
+    },
+    {
+      "il_adi": "Erzurum",
+      "plaka_kodu": "25",
+      "alan_kodu": "42",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "25.006",
+      "ilceler": [
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1153",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "AŞKALE"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1945",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "AZİZİYE"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1235",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "ÇAT"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1392",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "HINIS"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1396",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "HORASAN"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1416",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "İSPİR"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1812",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "KARAÇOBAN"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1444",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "KARAYAZI"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1967",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "KÖPRÜKÖY"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1540",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "NARMAN"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1550",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "OLTU"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1551",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "OLUR"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "2044",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "PALANDÖKEN"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1567",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "PASİNLER"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1865",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "PAZARYOLU"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1657",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "ŞENKAYA"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1674",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "TEKMAN"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1683",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "TORTUM"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "1851",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "UZUNDERE"},
+{
+  "plaka_kodu": "25",
+  "ilce_kodu": "2045",
+  "il_adi": "ERZURUM",
+  "ilce_adi": "YAKUTİYE"}
+      ],
+      "kisa_bilgi": "23 Temmuz-7 Ağustos 1919 tarihleri arasında gerçekleştirilen ve Kurtuluş Mücadelesi'nde önemli ölçüde belirleyici kararların alındığı Erzurum Kongresi’ne ev sahipliği yapan ilin tarihimizde önemli bir yeri var. "
+    },
+    {
+      "il_adi": "Eskişehir",
+      "plaka_kodu": "26",
+      "alan_kodu": "222",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "13.960",
+      "ilceler": [
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1759",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "ALPU"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1777",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "BEYLİKOVA"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1255",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "ÇİFTELER"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1934",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "GÜNYÜZÜ"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1939",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "HAN"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1808",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "İNÖNÜ"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1508",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "MAHMUDİYE"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1973",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "MİHALGAZİ"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1527",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "MİHALIÇÇIK"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "2046",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "ODUNPAZARI"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1599",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "SARICAKAYA"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1618",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "SEYİTGAZİ"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "1632",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "SİVRİHİSAR"},
+{
+  "plaka_kodu": "26",
+  "ilce_kodu": "2047",
+  "il_adi": "ESKİŞEHİR",
+  "ilce_adi": "TEPEBAŞI"}
+      ],
+      "kisa_bilgi": "Ortasından Porsuk Çayı geçen, 'öğrenci şehri' diye anılan, Met helvası, Nuga helvası, Haşhaşlı çöreği, Kalabak suyu ve çiböreği ile meşhur Eskişehir, ayrıca ülkemizde işlenebilir lületaşı çıkarılan tek yerdir."
+    },
+    {
+      "il_adi": "Gaziantep",
+      "plaka_kodu": "27",
+      "alan_kodu": "342",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "6.803",
+      "ilceler": [
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1139",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "ARABAN"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1415",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "İSLAHİYE"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1956",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "KARKAMIŞ"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1546",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "NİZİP"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1974",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "NURDAĞI"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1549",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "OĞUZELİ"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1841",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "ŞAHİNBEY"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1844",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "ŞEHİTKAMİL"},
+{
+  "plaka_kodu": "27",
+  "ilce_kodu": "1720",
+  "il_adi": "GAZİANTEP",
+  "ilce_adi": "YAVUZELİ"}
+      ],
+      "kisa_bilgi": "1987 yılında büyükşehir unvanını alan, Mezopotomya ve Akdeniz arasında, İpek Yolu üzerinde yer alan Antep, tarihin en eski yerleşim birimlerinden biri olarak kabul edilen Dülük antik kentinin de bulunduğu şehrimizdir."
+    },
+    {
+      "il_adi": "Giresun",
+      "plaka_kodu": "28",
+      "alan_kodu": "454",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "7.025",
+      "ilceler": [
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1352",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1133",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "ALUCRA"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1212",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "BULANCAK"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1893",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "ÇAMOLUK"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1894",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "ÇANAKÇI"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1272",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "DERELİ"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1912",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "DOĞANKENT"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1320",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "ESPİYE"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1324",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "EYNESİL"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1361",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "GÖRELE"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1930",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "GÜCE"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1465",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "KEŞAP"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1837",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "PİRAZİZ"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1654",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "ŞEBİNKARAHİSAR"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1678",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "TİREBOLU"},
+{
+  "plaka_kodu": "28",
+  "ilce_kodu": "1854",
+  "il_adi": "GİRESUN",
+  "ilce_adi": "YAĞLIDERE"}
+      ],
+      "kisa_bilgi": "Dünyaca meşhur, parlak kabuklu, yağ oranı yüksek ve tombul fındığı, Fiskobirlik’in genel müdürlüğüne de ev sahipliği yapması, doğal ve kültürel zenginlikleri, hâlâ sürdürülen gelenek ve görenekleriyle Giresun, keşfedilesi şehirlerimizden biri."
+    },
+    {
+      "il_adi": "Gümüşhane",
+      "plaka_kodu": "29",
+      "alan_kodu": "456",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "6.668",
+      "ilceler": [
+{
+  "plaka_kodu": "29",
+  "ilce_kodu": "1369",
+  "il_adi": "GÜMÜŞHANE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "29",
+  "ilce_kodu": "1458",
+  "il_adi": "GÜMÜŞHANE",
+  "ilce_adi": "KELKİT"},
+{
+  "plaka_kodu": "29",
+  "ilce_kodu": "1822",
+  "il_adi": "GÜMÜŞHANE",
+  "ilce_adi": "KÖSE"},
+{
+  "plaka_kodu": "29",
+  "ilce_kodu": "1971",
+  "il_adi": "GÜMÜŞHANE",
+  "ilce_adi": "KÜRTÜN"},
+{
+  "plaka_kodu": "29",
+  "ilce_kodu": "1660",
+  "il_adi": "GÜMÜŞHANE",
+  "ilce_adi": "ŞİRAN"},
+{
+  "plaka_kodu": "29",
+  "ilce_kodu": "1684",
+  "il_adi": "GÜMÜŞHANE",
+  "ilce_adi": "TORUL"}
+      ],
+      "kisa_bilgi": "Doğu Karadeniz’in iç kesiminde yer alan, Artabel Gölleri Tabiat Parkı ile Kuluca, Şiran Dağları gibi koruma altındaki doğal güzelliklere sahip Gümüşhane, kış turizmi açısından da dikkat çekiyor."
+    },
+    {
+      "il_adi": "Hakkari",
+      "plaka_kodu": "30",
+      "alan_kodu": "438",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "7.095",
+      "ilceler": [
+{
+  "plaka_kodu": "30",
+  "ilce_kodu": "1377",
+  "il_adi": "HAKKARİ",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "30",
+  "ilce_kodu": "1261",
+  "il_adi": "HAKKARİ",
+  "ilce_adi": "ÇUKURCA"},
+{
+  "plaka_kodu": "30",
+  "ilce_kodu": "2107",
+  "il_adi": "HAKKARİ",
+  "ilce_adi": "DERECİK"},
+{
+  "plaka_kodu": "30",
+  "ilce_kodu": "1656",
+  "il_adi": "HAKKARİ",
+  "ilce_adi": "ŞEMDİNLİ"},
+{
+  "plaka_kodu": "30",
+  "ilce_kodu": "1737",
+  "il_adi": "HAKKARİ",
+  "ilce_adi": "YÜKSEKOVA"}
+      ],
+      "kisa_bilgi": "Güneyinde Irak, doğusunda İran ile komşu olan Hakkari, tarih boyunca Urartu, Pers, Arap ardından Selçuklu hakimiyetinde bulunup, 16. yy’da ise Osmanlı İmparatorluğuna dahil edildi. "
+    },
+    {
+      "il_adi": "Hatay",
+      "plaka_kodu": "31",
+      "alan_kodu": "326",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "5.524",
+      "ilceler": [
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1131",
+  "il_adi": "HATAY",
+  "ilce_adi": "ALTINÖZÜ"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "2080",
+  "il_adi": "HATAY",
+  "ilce_adi": "ANTAKYA"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "2081",
+  "il_adi": "HATAY",
+  "ilce_adi": "ARSUZ"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1887",
+  "il_adi": "HATAY",
+  "ilce_adi": "BELEN"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "2082",
+  "il_adi": "HATAY",
+  "ilce_adi": "DEFNE"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1289",
+  "il_adi": "HATAY",
+  "ilce_adi": "DÖRTYOL"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1792",
+  "il_adi": "HATAY",
+  "ilce_adi": "ERZİN"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1382",
+  "il_adi": "HATAY",
+  "ilce_adi": "HASSA"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1413",
+  "il_adi": "HATAY",
+  "ilce_adi": "İSKENDERUN"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1468",
+  "il_adi": "HATAY",
+  "ilce_adi": "KIRIKHAN"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1970",
+  "il_adi": "HATAY",
+  "ilce_adi": "KUMLU"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "2083",
+  "il_adi": "HATAY",
+  "ilce_adi": "PAYAS"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1585",
+  "il_adi": "HATAY",
+  "ilce_adi": "REYHANLI"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1591",
+  "il_adi": "HATAY",
+  "ilce_adi": "SAMANDAĞ"},
+{
+  "plaka_kodu": "31",
+  "ilce_kodu": "1721",
+  "il_adi": "HATAY",
+  "ilce_adi": "YAYLADAĞI"}
+      ],
+      "kisa_bilgi": "Doğusunda ve güneyinde Suriye, batısında Akdeniz, kuzeybatısında Adana, kuzeyinde Osmaniye ve kuzeydoğusunda Gaziantep’in yer aldığı Hatay, arkeolojik olarak da oldukça değerli ve eski bir yerleşim yeridir."
+    },
+    {
+      "il_adi": "Isparta",
+      "plaka_kodu": "32",
+      "alan_kodu": "246",
+      "bolge": "Akdeniz",
+      "yuzolcumu": "8.946",
+      "ilceler": [
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1401",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1755",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "AKSU"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1154",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "ATABEY"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1297",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "EĞİRDİR"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1341",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "GELENDOST"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1929",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "GÖNEN"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1456",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "KEÇİBORLU"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1615",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "SENİRKENT"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1648",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "SÜTÇÜLER"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1651",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "ŞARKİKARAAĞAÇ"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1699",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "ULUBORLU"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "1717",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "YALVAÇ"},
+{
+  "plaka_kodu": "32",
+  "ilce_kodu": "2001",
+  "il_adi": "ISPARTA",
+  "ilce_adi": "YENİŞARBADEMLİ"}
+      ],
+      "kisa_bilgi": "Lezzetli, uzun saplı, sert meyveli kirazı, gülü ve halısıyla meşhur, ayrıca ülkemizde en çok elma üretiminin yapıldığı Isparta, Göller bölgesinde yer alıyor. "
+    },
+    {
+      "il_adi": "Mersin",
+      "plaka_kodu": "33",
+      "alan_kodu": "324",
+      "bolge": "Akdeniz",
+      "yuzolcumu": "16.010",
+      "ilceler": [
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "2064",
+  "il_adi": "MERSİN",
+  "ilce_adi": "AKDENİZ"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1135",
+  "il_adi": "MERSİN",
+  "ilce_adi": "ANAMUR"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1766",
+  "il_adi": "MERSİN",
+  "ilce_adi": "AYDINCIK"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1779",
+  "il_adi": "MERSİN",
+  "ilce_adi": "BOZYAZI"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1892",
+  "il_adi": "MERSİN",
+  "ilce_adi": "ÇAMLIYAYLA"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1311",
+  "il_adi": "MERSİN",
+  "ilce_adi": "ERDEMLİ"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1366",
+  "il_adi": "MERSİN",
+  "ilce_adi": "GÜLNAR"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "2065",
+  "il_adi": "MERSİN",
+  "ilce_adi": "MEZİTLİ"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1536",
+  "il_adi": "MERSİN",
+  "ilce_adi": "MUT"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1621",
+  "il_adi": "MERSİN",
+  "ilce_adi": "SİLİFKE"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "1665",
+  "il_adi": "MERSİN",
+  "ilce_adi": "TARSUS"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "2066",
+  "il_adi": "MERSİN",
+  "ilce_adi": "TOROSLAR"},
+{
+  "plaka_kodu": "33",
+  "ilce_kodu": "2067",
+  "il_adi": "MERSİN",
+  "ilce_adi": "YENİŞEHİR"}
+      ],
+      "kisa_bilgi": "Türkiye'nin güneyinde bulunan Mersin, ülkenin en büyük limanı (Mersin Limanı) ile bir liman kentidir. Mersin Serbest Bölgesi, tekstil firmaları yoğunlukta olmak üzere pek çok şirkete ev sahipliği yapar. "
+    },
+    {
+      "il_adi": "İstanbul",
+      "plaka_kodu": "34",
+      "alan_kodu": "212-216",
+      "bolge": "Marmara",
+      "yuzolcumu": "5.461",
+      "ilceler": [
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1103",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ADALAR"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2048",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ARNAVUTKÖY"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2049",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ATAŞEHİR"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2003",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "AVCILAR"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2004",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BAĞCILAR"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2005",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BAHÇELİEVLER"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1166",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BAKIRKÖY"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2050",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BAŞAKŞEHİR"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1886",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BAYRAMPAŞA"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1183",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BEŞİKTAŞ"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1185",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BEYKOZ"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2051",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BEYLİKDÜZÜ"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1186",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BEYOĞLU"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1782",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "BÜYÜKÇEKMECE"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1237",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ÇATALCA"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2052",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ÇEKMEKÖY"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2016",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ESENLER"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2053",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ESENYURT"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1325",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "EYÜPSULTAN"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1327",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "FATİH"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1336",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "GAZİOSMANPAŞA"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2010",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "GÜNGÖREN"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1421",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "KADIKÖY"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1810",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "KAĞITHANE"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1449",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "KARTAL"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1823",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "KÜÇÜKÇEKMECE"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2012",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "MALTEPE"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1835",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "PENDİK"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2054",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "SANCAKTEPE"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1604",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "SARIYER"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1622",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "SİLİVRİ"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2014",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "SULTANBEYLİ"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2055",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "SULTANGAZİ"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1659",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ŞİLE"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1663",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ŞİŞLİ"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "2015",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "TUZLA"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1852",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ÜMRANİYE"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1708",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ÜSKÜDAR"},
+{
+  "plaka_kodu": "34",
+  "ilce_kodu": "1739",
+  "il_adi": "İSTANBUL",
+  "ilce_adi": "ZEYTİNBURNU"}
+      ],
+      "kisa_bilgi": "2010 Avrupa Kültür Başkenti, tarihi 300 bin yıl öncesine uzanan, üç tarafını Marmara Denizi, Boğaziçi ve Haliç'in sardığı bir yarım ada üzerinde yer alan, Roma, Bizans, Latin ve Osmanlı Türklerine başkentlik etmiş, Türkiye'nin en kalabalık şehri İstanbul, hem tarih boyunca, hem günümüzde pek çok alanda 'başkent' özelliğini korumuştur."
+    },
+    {
+      "il_adi": "İzmir",
+      "plaka_kodu": "35",
+      "alan_kodu": "232",
+      "bolge": "Ege",
+      "yuzolcumu": "11.891",
+      "ilceler": [
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1128",
+  "il_adi": "İZMİR",
+  "ilce_adi": "ALİAĞA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "2006",
+  "il_adi": "İZMİR",
+  "ilce_adi": "BALÇOVA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1178",
+  "il_adi": "İZMİR",
+  "ilce_adi": "BAYINDIR"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "2056",
+  "il_adi": "İZMİR",
+  "ilce_adi": "BAYRAKLI"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1181",
+  "il_adi": "İZMİR",
+  "ilce_adi": "BERGAMA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1776",
+  "il_adi": "İZMİR",
+  "ilce_adi": "BEYDAĞ"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1203",
+  "il_adi": "İZMİR",
+  "ilce_adi": "BORNOVA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1780",
+  "il_adi": "İZMİR",
+  "ilce_adi": "BUCA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1251",
+  "il_adi": "İZMİR",
+  "ilce_adi": "ÇEŞME"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "2007",
+  "il_adi": "İZMİR",
+  "ilce_adi": "ÇİĞLİ"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1280",
+  "il_adi": "İZMİR",
+  "ilce_adi": "DİKİLİ"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1334",
+  "il_adi": "İZMİR",
+  "ilce_adi": "FOÇA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "2009",
+  "il_adi": "İZMİR",
+  "ilce_adi": "GAZİEMİR"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "2018",
+  "il_adi": "İZMİR",
+  "ilce_adi": "GÜZELBAHÇE"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "2057",
+  "il_adi": "İZMİR",
+  "ilce_adi": "KARABAĞLAR"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1432",
+  "il_adi": "İZMİR",
+  "ilce_adi": "KARABURUN"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1448",
+  "il_adi": "İZMİR",
+  "ilce_adi": "KARŞIYAKA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1461",
+  "il_adi": "İZMİR",
+  "ilce_adi": "KEMALPAŞA"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1467",
+  "il_adi": "İZMİR",
+  "ilce_adi": "KINIK"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1477",
+  "il_adi": "İZMİR",
+  "ilce_adi": "KİRAZ"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1819",
+  "il_adi": "İZMİR",
+  "ilce_adi": "KONAK"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1826",
+  "il_adi": "İZMİR",
+  "ilce_adi": "MENDERES"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1521",
+  "il_adi": "İZMİR",
+  "ilce_adi": "MENEMEN"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "2013",
+  "il_adi": "İZMİR",
+  "ilce_adi": "NARLIDERE"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1563",
+  "il_adi": "İZMİR",
+  "ilce_adi": "ÖDEMİŞ"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1611",
+  "il_adi": "İZMİR",
+  "ilce_adi": "SEFERİHİSAR"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1612",
+  "il_adi": "İZMİR",
+  "ilce_adi": "SELÇUK"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1677",
+  "il_adi": "İZMİR",
+  "ilce_adi": "TİRE"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1682",
+  "il_adi": "İZMİR",
+  "ilce_adi": "TORBALI"},
+{
+  "plaka_kodu": "35",
+  "ilce_kodu": "1703",
+  "il_adi": "İZMİR",
+  "ilce_adi": "URLA"}
+      ],
+      "kisa_bilgi": "Latince adı Smyrna olan İzmir, Ege Bölgesi'nin ortasında ve İzmir Körfezi çevresinde yer alır. Konak, kentin merkez ilçesidir ve burada gezilecek, görülecek çok şey vardır."
+    },
+    {
+      "il_adi": "Kars",
+      "plaka_kodu": "36",
+      "alan_kodu": "474",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "10.193",
+      "ilceler": [
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1447",
+  "il_adi": "KARS",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1756",
+  "il_adi": "KARS",
+  "ilce_adi": "AKYAKA"},
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1149",
+  "il_adi": "KARS",
+  "ilce_adi": "ARPAÇAY"},
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1279",
+  "il_adi": "KARS",
+  "ilce_adi": "DİGOR"},
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1424",
+  "il_adi": "KARS",
+  "ilce_adi": "KAĞIZMAN"},
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1601",
+  "il_adi": "KARS",
+  "ilce_adi": "SARIKAMIŞ"},
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1614",
+  "il_adi": "KARS",
+  "ilce_adi": "SELİM"},
+{
+  "plaka_kodu": "36",
+  "ilce_kodu": "1645",
+  "il_adi": "KARS",
+  "ilce_adi": "SUSUZ"}
+      ],
+      "kisa_bilgi": "Ülkemizin en doğusunda, Ermenistan’la komşu Kars, çok eski kültürlere ev sahipliği yapmış, pek çok kıymetli halk ozanının yetiştiği önemli bir ilimiz."
+    },
+    {
+      "il_adi": "Kastamonu",
+      "plaka_kodu": "37",
+      "alan_kodu": "366",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "13.064",
+      "ilceler": [
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1450",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1101",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "ABANA"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1867",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "AĞLI"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1140",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "ARAÇ"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1162",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "AZDAVAY"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1208",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "BOZKURT"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1221",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "CİDE"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1238",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "ÇATALZEYTİN"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1264",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "DADAY"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1277",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "DEVREKANİ"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1915",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "DOĞANYURT"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1940",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "HANÖNÜ"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1805",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "İHSANGAZİ"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1410",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "İNEBOLU"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1499",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "KÜRE"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1836",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "PINARBAŞI"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1984",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "SEYDİLER"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1845",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "ŞENPAZAR"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1666",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "TAŞKÖPRÜ"},
+{
+  "plaka_kodu": "37",
+  "ilce_kodu": "1685",
+  "il_adi": "KASTAMONU",
+  "ilce_adi": "TOSYA"}
+      ],
+      "kisa_bilgi": "Karadeniz bölgesinde bulunan Kastamonu, tarihi boyunca önemli bir medeniyetler merkezi olmuş. Bu nedenle ilde pek çok değerli tarihi eser saymak mümkün."
+    },
+    {
+      "il_adi": "Kayseri",
+      "plaka_kodu": "38",
+      "alan_kodu": "352",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "16.970",
+      "ilceler": [
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1752",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "AKKIŞLA"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1218",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "BÜNYAN"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1275",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "DEVELİ"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1330",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "FELAHİYE"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1936",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "HACILAR"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1409",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "İNCESU"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1863",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "KOCASİNAN"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1864",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "MELİKGAZİ"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1978",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "ÖZVATAN"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1576",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "PINARBAŞI"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1603",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "SARIOĞLAN"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1605",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "SARIZ"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1846",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "TALAS"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1680",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "TOMARZA"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1715",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "YAHYALI"},
+{
+  "plaka_kodu": "38",
+  "ilce_kodu": "1727",
+  "il_adi": "KAYSERİ",
+  "ilce_adi": "YEŞİLHİSAR"}
+      ],
+      "kisa_bilgi": "İç Anadolu'nun güney bölümü ile Toros Dağlarının birbirine yaklaştığı, Orta Kızılırmak bölümünde yer alan Kayseri, değişik uygarlıkların kalıntılarına ev sahipliği yapan önemli bir ilimizdir."
+    },
+    {
+      "il_adi": "Kırklareli",
+      "plaka_kodu": "39",
+      "alan_kodu": "288",
+      "bolge": "Marmara",
+      "yuzolcumu": "6.459",
+      "ilceler": [
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1471",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1163",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "BABAESKİ"},
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1270",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "DEMİRKÖY"},
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1480",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "KOFÇAZ"},
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1505",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "LÜLEBURGAZ"},
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1572",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "PEHLİVANKÖY"},
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1577",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "PINARHİSAR"},
+{
+  "plaka_kodu": "39",
+  "ilce_kodu": "1714",
+  "il_adi": "KIRKLARELİ",
+  "ilce_adi": "VİZE"}
+      ],
+      "kisa_bilgi": "Marmara bölgesinin Trakya kesiminde bulunan Kırklareli, sınır ili konumunda olup, Bulgaristan’la komşudur. 1924 yılından bu yana il statüsünde bulunan Kırklareli, Anadolu ve Avrupa arasında geçiş konumunda bulunduğu için pek çok arkeolojik, doğal ve tarihi sit alanlarına sahip."
+    },
+    {
+      "il_adi": "Kırşehir",
+      "plaka_kodu": "40",
+      "alan_kodu": "386",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "6.584",
+      "ilceler": [
+{
+  "plaka_kodu": "40",
+  "ilce_kodu": "1472",
+  "il_adi": "KIRŞEHİR",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "40",
+  "ilce_kodu": "1869",
+  "il_adi": "KIRŞEHİR",
+  "ilce_adi": "AKÇAKENT"},
+{
+  "plaka_kodu": "40",
+  "ilce_kodu": "1754",
+  "il_adi": "KIRŞEHİR",
+  "ilce_adi": "AKPINAR"},
+{
+  "plaka_kodu": "40",
+  "ilce_kodu": "1890",
+  "il_adi": "KIRŞEHİR",
+  "ilce_adi": "BOZTEPE"},
+{
+  "plaka_kodu": "40",
+  "ilce_kodu": "1254",
+  "il_adi": "KIRŞEHİR",
+  "ilce_adi": "ÇİÇEKDAĞI"},
+{
+  "plaka_kodu": "40",
+  "ilce_kodu": "1429",
+  "il_adi": "KIRŞEHİR",
+  "ilce_adi": "KAMAN"},
+{
+  "plaka_kodu": "40",
+  "ilce_kodu": "1529",
+  "il_adi": "KIRŞEHİR",
+  "ilce_adi": "MUCUR"}
+      ],
+      "kisa_bilgi": "İç Anadolu bölgemizdeki Hititler dönemine dek uzanan tarihi ile Kırşehir aynı zamanda, Ahi Evran tarafından kurulan ve Anadolu’dan Orta Asya’ya dek esnaf ve zanaatkarları tek çatı altında toplamayı amaçlayan Ahilik Teşkilatı’nın da merkezi konumundadır."
+    },
+    {
+      "il_adi": "Kocaeli",
+      "plaka_kodu": "41",
+      "alan_kodu": "262",
+      "bolge": "Marmara",
+      "yuzolcumu": "3.397",
+      "ilceler": [
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "2058",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "BAŞİSKELE"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "2059",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "ÇAYIROVA"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "2060",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "DARICA"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "2030",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "DERİNCE"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "2061",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "DİLOVASI"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "1338",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "GEBZE"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "1355",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "GÖLCÜK"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "2062",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "İZMİT"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "1430",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "KANDIRA"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "1440",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "KARAMÜRSEL"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "2063",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "KARTEPE"},
+{
+  "plaka_kodu": "41",
+  "ilce_kodu": "1821",
+  "il_adi": "KOCAELİ",
+  "ilce_adi": "KÖRFEZ"}
+      ],
+      "kisa_bilgi": "Türkiye'nin en kalabalık illerinden, 1993 yılında büyükşehir unvanını alan, Marmara Bölgesi'nin Çatalca-Kocaeli Bölümü'nde bulunan Kocaeli, ülkenin sanayi sektöründe çok önemli bir konuma sahiptir."
+    },
+    {
+      "il_adi": "Konya",
+      "plaka_kodu": "42",
+      "alan_kodu": "332",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "40.838",
+      "ilceler": [
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1868",
+  "il_adi": "KONYA",
+  "ilce_adi": "AHIRLI"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1753",
+  "il_adi": "KONYA",
+  "ilce_adi": "AKÖREN"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1122",
+  "il_adi": "KONYA",
+  "ilce_adi": "AKŞEHİR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1760",
+  "il_adi": "KONYA",
+  "ilce_adi": "ALTINEKİN"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1188",
+  "il_adi": "KONYA",
+  "ilce_adi": "BEYŞEHİR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1207",
+  "il_adi": "KONYA",
+  "ilce_adi": "BOZKIR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1222",
+  "il_adi": "KONYA",
+  "ilce_adi": "CİHANBEYLİ"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1902",
+  "il_adi": "KONYA",
+  "ilce_adi": "ÇELTİK"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1262",
+  "il_adi": "KONYA",
+  "ilce_adi": "ÇUMRA"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1907",
+  "il_adi": "KONYA",
+  "ilce_adi": "DERBENT"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1789",
+  "il_adi": "KONYA",
+  "ilce_adi": "DEREBUCAK"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1285",
+  "il_adi": "KONYA",
+  "ilce_adi": "DOĞANHİSAR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1920",
+  "il_adi": "KONYA",
+  "ilce_adi": "EMİRGAZİ"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1312",
+  "il_adi": "KONYA",
+  "ilce_adi": "EREĞLİ"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1933",
+  "il_adi": "KONYA",
+  "ilce_adi": "GÜNEYSINIR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1375",
+  "il_adi": "KONYA",
+  "ilce_adi": "HADİM"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1937",
+  "il_adi": "KONYA",
+  "ilce_adi": "HALKAPINAR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1804",
+  "il_adi": "KONYA",
+  "ilce_adi": "HÜYÜK"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1400",
+  "il_adi": "KONYA",
+  "ilce_adi": "ILGIN"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1422",
+  "il_adi": "KONYA",
+  "ilce_adi": "KADINHANI"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1441",
+  "il_adi": "KONYA",
+  "ilce_adi": "KARAPINAR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1814",
+  "il_adi": "KONYA",
+  "ilce_adi": "KARATAY"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1491",
+  "il_adi": "KONYA",
+  "ilce_adi": "KULU"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1827",
+  "il_adi": "KONYA",
+  "ilce_adi": "MERAM"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1598",
+  "il_adi": "KONYA",
+  "ilce_adi": "SARAYÖNÜ"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1839",
+  "il_adi": "KONYA",
+  "ilce_adi": "SELÇUKLU"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1617",
+  "il_adi": "KONYA",
+  "ilce_adi": "SEYDİŞEHİR"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1848",
+  "il_adi": "KONYA",
+  "ilce_adi": "TAŞKENT"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1990",
+  "il_adi": "KONYA",
+  "ilce_adi": "TUZLUKÇU"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1994",
+  "il_adi": "KONYA",
+  "ilce_adi": "YALIHÜYÜK"},
+{
+  "plaka_kodu": "42",
+  "ilce_kodu": "1735",
+  "il_adi": "KONYA",
+  "ilce_adi": "YUNAK"}
+      ],
+      "kisa_bilgi": "M.Ö. 7. bin yıldan beri yerleşim yeri olan ve çeşitli kültürlere, medeniyetlere evsahipliği yapan Konya, yüzölçüm olarak ülkemizin en büyük ilidir."
+    },
+    {
+      "il_adi": "Kütahya",
+      "plaka_kodu": "43",
+      "alan_kodu": "274",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "577.941",
+      "ilceler": [
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1500",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1132",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "ALTINTAŞ"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1764",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "ASLANAPA"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1898",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "ÇAVDARHİSAR"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1288",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "DOMANİÇ"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1790",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "DUMLUPINAR"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1304",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "EMET"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1339",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "GEDİZ"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1802",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "HİSARCIK"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1979",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "PAZARLAR"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1625",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "SİMAV"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1843",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "ŞAPHANE"},
+{
+  "plaka_kodu": "43",
+  "ilce_kodu": "1671",
+  "il_adi": "KÜTAHYA",
+  "ilce_adi": "TAVŞANLI"}
+      ],
+      "kisa_bilgi": "Ülkemizin İç Batı Anadolu bölümünde bulunan, porselenleri, tertemiz doğası, maden yatakları ile önemli bir ilimiz olan Kütahya, jeolojik oluşum açısından da oldukça eski dönemlere dek uzanır."
+    },
+    {
+      "il_adi": "Malatya",
+      "plaka_kodu": "44",
+      "alan_kodu": "422",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "12259",
+      "ilceler": [
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1114",
+  "il_adi": "MALATYA",
+  "ilce_adi": "AKÇADAĞ"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1143",
+  "il_adi": "MALATYA",
+  "ilce_adi": "ARAPGİR"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1148",
+  "il_adi": "MALATYA",
+  "ilce_adi": "ARGUVAN"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1772",
+  "il_adi": "MALATYA",
+  "ilce_adi": "BATTALGAZİ"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1265",
+  "il_adi": "MALATYA",
+  "ilce_adi": "DARENDE"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1286",
+  "il_adi": "MALATYA",
+  "ilce_adi": "DOĞANŞEHİR"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1914",
+  "il_adi": "MALATYA",
+  "ilce_adi": "DOĞANYOL"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1390",
+  "il_adi": "MALATYA",
+  "ilce_adi": "HEKİMHAN"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1953",
+  "il_adi": "MALATYA",
+  "ilce_adi": "KALE"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1969",
+  "il_adi": "MALATYA",
+  "ilce_adi": "KULUNCAK"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1582",
+  "il_adi": "MALATYA",
+  "ilce_adi": "PÜTÜRGE"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1995",
+  "il_adi": "MALATYA",
+  "ilce_adi": "YAZIHAN"},
+{
+  "plaka_kodu": "44",
+  "ilce_kodu": "1729",
+  "il_adi": "MALATYA",
+  "ilce_adi": "YEŞİLYURT"}
+      ],
+      "kisa_bilgi": "Doğu Anadolu Bölgesi'nin Yukarı Fırat Bölümü'nde yer alan Malatya, kayısılarıyla dünya çapında bir üne sahiptir. Bu vesileyle her sene Malatya Fuarı ve Uluslararası Kültür, Sanat ve Kayısı Festivali yapılmaktadır."
+    },
+    {
+      "il_adi": "Manisa",
+      "plaka_kodu": "45",
+      "alan_kodu": "236",
+      "bolge": "Ege",
+      "yuzolcumu": "13.339",
+      "ilceler": [
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1751",
+  "il_adi": "MANİSA",
+  "ilce_adi": "AHMETLİ"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1118",
+  "il_adi": "MANİSA",
+  "ilce_adi": "AKHİSAR"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1127",
+  "il_adi": "MANİSA",
+  "ilce_adi": "ALAŞEHİR"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1269",
+  "il_adi": "MANİSA",
+  "ilce_adi": "DEMİRCİ"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1793",
+  "il_adi": "MANİSA",
+  "ilce_adi": "GÖLMARMARA"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1362",
+  "il_adi": "MANİSA",
+  "ilce_adi": "GÖRDES"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1470",
+  "il_adi": "MANİSA",
+  "ilce_adi": "KIRKAĞAÇ"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1965",
+  "il_adi": "MANİSA",
+  "ilce_adi": "KÖPRÜBAŞI"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1489",
+  "il_adi": "MANİSA",
+  "ilce_adi": "KULA"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1590",
+  "il_adi": "MANİSA",
+  "ilce_adi": "SALİHLİ"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1600",
+  "il_adi": "MANİSA",
+  "ilce_adi": "SARIGÖL"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1606",
+  "il_adi": "MANİSA",
+  "ilce_adi": "SARUHANLI"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1613",
+  "il_adi": "MANİSA",
+  "ilce_adi": "SELENDİ"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1634",
+  "il_adi": "MANİSA",
+  "ilce_adi": "SOMA"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "2086",
+  "il_adi": "MANİSA",
+  "ilce_adi": "ŞEHZADELER"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "1689",
+  "il_adi": "MANİSA",
+  "ilce_adi": "TURGUTLU"},
+{
+  "plaka_kodu": "45",
+  "ilce_kodu": "2087",
+  "il_adi": "MANİSA",
+  "ilce_adi": "YUNUSEMRE"}
+      ],
+      "kisa_bilgi": "Ege bölgesinin ortasında bulunan, 2012 yılında büyükşehir unvanını alan Manisa, bölgenin İzmir'den sonra ikinci büyük sanayi ve ticaret merkezidir. "
+    },
+    {
+      "il_adi": "Kahramanmaraş",
+      "plaka_kodu": "46",
+      "alan_kodu": "344",
+      "bolge": "Akdeniz",
+      "yuzolcumu": "14.520",
+      "ilceler": [
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1107",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "AFŞİN"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1136",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "ANDIRIN"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1785",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "ÇAĞLAYANCERİT"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "2084",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "DULKADİROĞLU"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1919",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "EKİNÖZÜ"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1299",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "ELBİSTAN"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1353",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "GÖKSUN"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1975",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "NURHAK"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "2085",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "ONİKİŞUBAT"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1570",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "PAZARCIK"},
+{
+  "plaka_kodu": "46",
+  "ilce_kodu": "1694",
+  "il_adi": "KAHRAMANMARAŞ",
+  "ilce_adi": "TÜRKOĞLU"}
+      ],
+      "kisa_bilgi": "2012 yılında Büyükşehir unvanı alan, dövme dondurmasıyla dünyaca meşhur Kahramanmaraş’a, Kurtuluş Savaşı’ndaki direnişi nedeniyle İstiklal Madalyası verilmiştir. "
+    },
+    {
+      "il_adi": "Mardin",
+      "plaka_kodu": "47",
+      "alan_kodu": "482",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "8.780",
+      "ilceler": [
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "2088",
+  "il_adi": "MARDİN",
+  "ilce_adi": "ARTUKLU"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1787",
+  "il_adi": "MARDİN",
+  "ilce_adi": "DARGEÇİT"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1273",
+  "il_adi": "MARDİN",
+  "ilce_adi": "DERİK"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1474",
+  "il_adi": "MARDİN",
+  "ilce_adi": "KIZILTEPE"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1519",
+  "il_adi": "MARDİN",
+  "ilce_adi": "MAZIDAĞI"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1526",
+  "il_adi": "MARDİN",
+  "ilce_adi": "MİDYAT"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1547",
+  "il_adi": "MARDİN",
+  "ilce_adi": "NUSAYBİN"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1564",
+  "il_adi": "MARDİN",
+  "ilce_adi": "ÖMERLİ"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "1609",
+  "il_adi": "MARDİN",
+  "ilce_adi": "SAVUR"},
+{
+  "plaka_kodu": "47",
+  "ilce_kodu": "2002",
+  "il_adi": "MARDİN",
+  "ilce_adi": "YEŞİLLİ"}
+      ],
+      "kisa_bilgi": "Suriye ile sınır komşusu olan, İpek Yolu üzerinde yer alan Mardin, Yukarı Mezopotamya’nın en eski şehirlerinden biridir ve tarih boyunca çeşitli kültürlere ev sahipliği yapmıştır."
+    },
+    {
+      "il_adi": "Muğla",
+      "plaka_kodu": "48",
+      "alan_kodu": "252",
+      "bolge": "Ege",
+      "yuzolcumu": "12654",
+      "ilceler": [
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1197",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "BODRUM"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1742",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "DALAMAN"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1266",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "DATÇA"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1331",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "FETHİYE"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1958",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "KAVAKLIDERE"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1488",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "KÖYCEĞİZ"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1517",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "MARMARİS"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "2089",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "MENTEŞE"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1528",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "MİLAS"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1831",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "ORTACA"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "2090",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "SEYDİKEMER"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1695",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "ULA"},
+{
+  "plaka_kodu": "48",
+  "ilce_kodu": "1719",
+  "il_adi": "MUĞLA",
+  "ilce_adi": "YATAĞAN"}
+      ],
+      "kisa_bilgi": "Fethiye, Bodrum, Marmaris gibi turistik beldeleriyle meşhur ilin topraklarının büyük kısmı Ege’de, küçük bir kısmı ise Akdeniz’de yer alıyor."
+    },
+    {
+      "il_adi": "Muş",
+      "plaka_kodu": "49",
+      "alan_kodu": "436",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "8.650",
+      "ilceler": [
+{
+  "plaka_kodu": "49",
+  "ilce_kodu": "1534",
+  "il_adi": "MUŞ",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "49",
+  "ilce_kodu": "1213",
+  "il_adi": "MUŞ",
+  "ilce_adi": "BULANIK"},
+{
+  "plaka_kodu": "49",
+  "ilce_kodu": "1801",
+  "il_adi": "MUŞ",
+  "ilce_adi": "HASKÖY"},
+{
+  "plaka_kodu": "49",
+  "ilce_kodu": "1964",
+  "il_adi": "MUŞ",
+  "ilce_adi": "KORKUT"},
+{
+  "plaka_kodu": "49",
+  "ilce_kodu": "1510",
+  "il_adi": "MUŞ",
+  "ilce_adi": "MALAZGİRT"},
+{
+  "plaka_kodu": "49",
+  "ilce_kodu": "1711",
+  "il_adi": "MUŞ",
+  "ilce_adi": "VARTO"}
+      ],
+      "kisa_bilgi": "Doğu Anadolu bölgesinde bulunan ilimiz, M.Ö. 2000’e uzanan tarihi, kendine özgü lalesi ve merkeze 8 km mesafede bulunan Güzeltepe Kayak Merkezi ile dikkat çekiyor."
+    },
+    {
+      "il_adi": "Nevşehir",
+      "plaka_kodu": "50",
+      "alan_kodu": "384",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "5.485",
+      "ilceler": [
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1543",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1749",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "ACIGÖL"},
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1155",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "AVANOS"},
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1274",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "DERİNKUYU"},
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1367",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "GÜLŞEHİR"},
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1374",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "HACIBEKTAŞ"},
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1485",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "KOZAKLI"},
+{
+  "plaka_kodu": "50",
+  "ilce_kodu": "1707",
+  "il_adi": "NEVŞEHİR",
+  "ilce_adi": "ÜRGÜP"}
+      ],
+      "kisa_bilgi": "Nevşehir, ülkemizin en önemli turistik merkezlerinden biri olan, peri bacaları, muhteşem güzelliği ve M.Ö. 3000’lere ulaşan tarihiyle UNESCO Dünya Mirası Listesinde yer alan Kapadokya’nın merkezinde bulunuyor."
+    },
+    {
+      "il_adi": "Niğde",
+      "plaka_kodu": "51",
+      "alan_kodu": "388",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "7.234",
+      "ilceler": [
+{
+  "plaka_kodu": "51",
+  "ilce_kodu": "1544",
+  "il_adi": "NİĞDE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "51",
+  "ilce_kodu": "1876",
+  "il_adi": "NİĞDE",
+  "ilce_adi": "ALTUNHİSAR"},
+{
+  "plaka_kodu": "51",
+  "ilce_kodu": "1201",
+  "il_adi": "NİĞDE",
+  "ilce_adi": "BOR"},
+{
+  "plaka_kodu": "51",
+  "ilce_kodu": "1225",
+  "il_adi": "NİĞDE",
+  "ilce_adi": "ÇAMARDI"},
+{
+  "plaka_kodu": "51",
+  "ilce_kodu": "1904",
+  "il_adi": "NİĞDE",
+  "ilce_adi": "ÇİFTLİK"},
+{
+  "plaka_kodu": "51",
+  "ilce_kodu": "1700",
+  "il_adi": "NİĞDE",
+  "ilce_adi": "ULUKIŞLA"}
+      ],
+      "kisa_bilgi": "Kapadokya bölgesinin bu güzel turistik şehri, üretimine 1962 yılında başlanan gazozu ve elmasıyla meşhur olmasının yanında, pek çok medeniyetin hüküm sürdüğü 6000 yıllık koca bir tarihi zenginliğe sahip. "
+    },
+    {
+      "il_adi": "Ordu",
+      "plaka_kodu": "52",
+      "alan_kodu": "452",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "5.861",
+      "ilceler": [
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1119",
+  "il_adi": "ORDU",
+  "ilce_adi": "AKKUŞ"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "2103",
+  "il_adi": "ORDU",
+  "ilce_adi": "ALTINORDU"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1158",
+  "il_adi": "ORDU",
+  "ilce_adi": "AYBASTI"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1891",
+  "il_adi": "ORDU",
+  "ilce_adi": "ÇAMAŞ"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1897",
+  "il_adi": "ORDU",
+  "ilce_adi": "ÇATALPINAR"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1900",
+  "il_adi": "ORDU",
+  "ilce_adi": "ÇAYBAŞI"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1328",
+  "il_adi": "ORDU",
+  "ilce_adi": "FATSA"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1358",
+  "il_adi": "ORDU",
+  "ilce_adi": "GÖLKÖY"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1795",
+  "il_adi": "ORDU",
+  "ilce_adi": "GÜLYALI"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1797",
+  "il_adi": "ORDU",
+  "ilce_adi": "GÜRGENTEPE"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1947",
+  "il_adi": "ORDU",
+  "ilce_adi": "İKİZCE"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1950",
+  "il_adi": "ORDU",
+  "ilce_adi": "KABADÜZ"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1951",
+  "il_adi": "ORDU",
+  "ilce_adi": "KABATAŞ"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1482",
+  "il_adi": "ORDU",
+  "ilce_adi": "KORGAN"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1493",
+  "il_adi": "ORDU",
+  "ilce_adi": "KUMRU"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1525",
+  "il_adi": "ORDU",
+  "ilce_adi": "MESUDİYE"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1573",
+  "il_adi": "ORDU",
+  "ilce_adi": "PERŞEMBE"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1696",
+  "il_adi": "ORDU",
+  "ilce_adi": "ULUBEY"},
+{
+  "plaka_kodu": "52",
+  "ilce_kodu": "1706",
+  "il_adi": "ORDU",
+  "ilce_adi": "ÜNYE"}
+      ],
+      "kisa_bilgi": "Karadeniz kıyısında bulunan; Tokat, Sivas, Samsun ve Giresun ile komşu olan Ordu, 1920 yılında il statüsüne kavuştu. Ülkemiz fındık üretiminin yaklaşık yarısını karşılayan ilde nüfusun çoğunluğunun geçimi de fındığa dayanıyor. Ordu’da yer alan önemli fabrikalardan birkaçı şöyle; Doğuş Çay, Gürsoy Fındık, Sagra Çikolata Fabrikası gibi."
+    },
+    {
+      "il_adi": "Rize",
+      "plaka_kodu": "53",
+      "alan_kodu": "464",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "3.835",
+      "ilceler": [
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1586",
+  "il_adi": "RİZE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1146",
+  "il_adi": "RİZE",
+  "ilce_adi": "ARDEŞEN"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1228",
+  "il_adi": "RİZE",
+  "ilce_adi": "ÇAMLIHEMŞİN"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1241",
+  "il_adi": "RİZE",
+  "ilce_adi": "ÇAYELİ"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1908",
+  "il_adi": "RİZE",
+  "ilce_adi": "DEREPAZARI"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1332",
+  "il_adi": "RİZE",
+  "ilce_adi": "FINDIKLI"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1796",
+  "il_adi": "RİZE",
+  "ilce_adi": "GÜNEYSU"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1943",
+  "il_adi": "RİZE",
+  "ilce_adi": "HEMŞİN"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1405",
+  "il_adi": "RİZE",
+  "ilce_adi": "İKİZDERE"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1949",
+  "il_adi": "RİZE",
+  "ilce_adi": "İYİDERE"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1428",
+  "il_adi": "RİZE",
+  "ilce_adi": "KALKANDERE"},
+{
+  "plaka_kodu": "53",
+  "ilce_kodu": "1569",
+  "il_adi": "RİZE",
+  "ilce_adi": "PAZAR"}
+      ],
+      "kisa_bilgi": "Ülkemizin en çok yağış alan bu ili, herkesin bildiği gibi çayıyla, Anzer balıyla, yaylalarıyla meşhur. Muhteşem bir doğal güzelliği olan ve mutlaka görülmesi gereken illerimizden biri olan Rize, çok çeşitli doğa sporlarını yapmanıza da olanak tanıyor. Fırtına, Hemşin, Büyükdere, Taşlıdere gibi akarsularında kano ya da rafting yapabilir, yürüyüşleriniz sırasında Kaçkar Dağları Milli Parkı içinde bulunan Palovit Şelalesi’ni, Çayeli’ndeki Ağaran Şelalesi’ni fotoğraflayabilir, Çağrankaya, Petran, Handüzü, Demirkapı, Anzer, Samistal, Palovit gibi doğa harikası yaylalarında çadır kurabilirsiniz."
+    },
+    {
+      "il_adi": "Sakarya",
+      "plaka_kodu": "54",
+      "alan_kodu": "264",
+      "bolge": "Marmara",
+      "yuzolcumu": "4824",
+      "ilceler": [
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "2068",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "ADAPAZARI"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1123",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "AKYAZI"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "2069",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "ARİFİYE"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "2070",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "ERENLER"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1925",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "FERİZLİ"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1351",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "GEYVE"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1391",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "HENDEK"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1955",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "KARAPÜRÇEK"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1442",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "KARASU"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1453",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "KAYNARCA"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1818",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "KOCAALİ"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1833",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "PAMUKOVA"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1595",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "SAPANCA"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "2071",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "SERDİVAN"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1986",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "SÖĞÜTLÜ"},
+{
+  "plaka_kodu": "54",
+  "ilce_kodu": "1847",
+  "il_adi": "SAKARYA",
+  "ilce_adi": "TARAKLI"}
+      ],
+      "kisa_bilgi": "Marmara Bölgesi'nin Çatalca-Kocaeli bölümünde yer alan Sakarya, önemli kara ve demiryollarının kavşak noktasında bulunuyor."
+    },
+    {
+      "il_adi": "Samsun",
+      "plaka_kodu": "55",
+      "alan_kodu": "362",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "9.725",
+      "ilceler": [
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1125",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "ALAÇAM"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1763",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "ASARCIK"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "2072",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "ATAKUM"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1879",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "AYVACIK"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1164",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "BAFRA"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "2073",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "CANİK"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1234",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "ÇARŞAMBA"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1386",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "HAVZA"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "2074",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "İLKADIM"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1452",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "KAVAK"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1501",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "LADİK"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1830",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "19 MAYIS"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1838",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "SALIPAZARI"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1849",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "TEKKEKÖY"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1676",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "TERME"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1712",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "VEZİRKÖPRÜ"},
+{
+  "plaka_kodu": "55",
+  "ilce_kodu": "1993",
+  "il_adi": "SAMSUN",
+  "ilce_adi": "YAKAKENT"}
+      ],
+      "kisa_bilgi": "Orta Karadeniz bölümünde yer alan ve Karadeniz bölgesinin en kalabalık şehri olan Samsun, 1993 yılından bu yana büyükşehir unvanına sahiptir. İl ayrıca Mustafa Kemal Atatürk'ün 19 Mayıs 1919'da Milli Mücadele’yi başlatmak üzere ilk adımı attığı yer olarak tarihimizde de çok önemli bir yere sahiptir."
+    },
+    {
+      "il_adi": "Siirt",
+      "plaka_kodu": "56",
+      "alan_kodu": "484",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "5.717",
+      "ilceler": [
+{
+  "plaka_kodu": "56",
+  "ilce_kodu": "1620",
+  "il_adi": "SİİRT",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "56",
+  "ilce_kodu": "1179",
+  "il_adi": "SİİRT",
+  "ilce_adi": "BAYKAN"},
+{
+  "plaka_kodu": "56",
+  "ilce_kodu": "1317",
+  "il_adi": "SİİRT",
+  "ilce_adi": "ERUH"},
+{
+  "plaka_kodu": "56",
+  "ilce_kodu": "1495",
+  "il_adi": "SİİRT",
+  "ilce_adi": "KURTALAN"},
+{
+  "plaka_kodu": "56",
+  "ilce_kodu": "1575",
+  "il_adi": "SİİRT",
+  "ilce_adi": "PERVARİ"},
+{
+  "plaka_kodu": "56",
+  "ilce_kodu": "1662",
+  "il_adi": "SİİRT",
+  "ilce_adi": "ŞİRVAN"},
+{
+  "plaka_kodu": "56",
+  "ilce_kodu": "1878",
+  "il_adi": "SİİRT",
+  "ilce_adi": "TİLLO"}
+      ],
+      "kisa_bilgi": "Güneydoğu Anadolu bölgesinde yer alan Siirt, Asurlulardan kalan 3500 yıllık Akabe Yolu’nun bulunduğu şehrimizdir. Dünyada var olan üç Akabe yolundan biridir burası."
+    },
+    {
+      "il_adi": "Sinop",
+      "plaka_kodu": "57",
+      "alan_kodu": "368",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "5.717",
+      "ilceler": [
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1627",
+  "il_adi": "SİNOP",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1156",
+  "il_adi": "SİNOP",
+  "ilce_adi": "AYANCIK"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1204",
+  "il_adi": "SİNOP",
+  "ilce_adi": "BOYABAT"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1910",
+  "il_adi": "SİNOP",
+  "ilce_adi": "DİKMEN"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1290",
+  "il_adi": "SİNOP",
+  "ilce_adi": "DURAĞAN"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1314",
+  "il_adi": "SİNOP",
+  "ilce_adi": "ERFELEK"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1349",
+  "il_adi": "SİNOP",
+  "ilce_adi": "GERZE"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1981",
+  "il_adi": "SİNOP",
+  "ilce_adi": "SARAYDÜZÜ"},
+{
+  "plaka_kodu": "57",
+  "ilce_kodu": "1693",
+  "il_adi": "SİNOP",
+  "ilce_adi": "TÜRKELİ"}
+      ],
+      "kisa_bilgi": "Ülkemizin en kuzey ucunda bulunan Sinop, 6 bin yıllık geçmişi, farklı medeniyetlerden kalan tarihi eserleri, enfes doğasıyla turistlerin ilgi noktasıdır"
+    },
+    {
+      "il_adi": "Sivas",
+      "plaka_kodu": "58",
+      "alan_kodu": "346",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "28.164",
+      "ilceler": [
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1628",
+  "il_adi": "SİVAS",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1870",
+  "il_adi": "SİVAS",
+  "ilce_adi": "AKINCILAR"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1875",
+  "il_adi": "SİVAS",
+  "ilce_adi": "ALTINYAYLA"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1282",
+  "il_adi": "SİVAS",
+  "ilce_adi": "DİVRİĞİ"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1913",
+  "il_adi": "SİVAS",
+  "ilce_adi": "DOĞANŞAR"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1342",
+  "il_adi": "SİVAS",
+  "ilce_adi": "GEMEREK"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1927",
+  "il_adi": "SİVAS",
+  "ilce_adi": "GÖLOVA"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1373",
+  "il_adi": "SİVAS",
+  "ilce_adi": "GÜRÜN"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1376",
+  "il_adi": "SİVAS",
+  "ilce_adi": "HAFİK"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1407",
+  "il_adi": "SİVAS",
+  "ilce_adi": "İMRANLI"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1431",
+  "il_adi": "SİVAS",
+  "ilce_adi": "KANGAL"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1484",
+  "il_adi": "SİVAS",
+  "ilce_adi": "KOYULHİSAR"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1646",
+  "il_adi": "SİVAS",
+  "ilce_adi": "SUŞEHRİ"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1650",
+  "il_adi": "SİVAS",
+  "ilce_adi": "ŞARKIŞLA"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1991",
+  "il_adi": "SİVAS",
+  "ilce_adi": "ULAŞ"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1731",
+  "il_adi": "SİVAS",
+  "ilce_adi": "YILDIZELİ"},
+{
+  "plaka_kodu": "58",
+  "ilce_kodu": "1738",
+  "il_adi": "SİVAS",
+  "ilce_adi": "ZARA"}
+      ],
+      "kisa_bilgi": "Anadolu’nun en eski yerleşim yerlerinden biri olan, tarihi İpek Yolu güzergahlarının kesiştiği yerde bulunan il, 4 Eylül 1919'da, Sivas Erkek Lisesi'nde toplanan kongre nedeniyle Milli Mücadele döneminde önemli bir yere sahip olmuştur. "
+    },
+    {
+      "il_adi": "Tekirdağ",
+      "plaka_kodu": "59",
+      "alan_kodu": "282",
+      "bolge": "Marmara",
+      "yuzolcumu": "6.190",
+      "ilceler": [
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1250",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "ÇERKEZKÖY"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1258",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "ÇORLU"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "2094",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "ERGENE"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1388",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "HAYRABOLU"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "2095",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "KAPAKLI"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1511",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "MALKARA"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1825",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "MARMARAEREĞLİSİ"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1538",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "MURATLI"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1596",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "SARAY"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "2096",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "SÜLEYMANPAŞA"},
+{
+  "plaka_kodu": "59",
+  "ilce_kodu": "1652",
+  "il_adi": "TEKİRDAĞ",
+  "ilce_adi": "ŞARKÖY"}
+      ],
+      "kisa_bilgi": "2014 yılından bu yana büyükşehir belediyeciliği ile yönetilen Tekirdağ’ın tarihi, Kalkolitik Çağ'a kadar uzanıyor. Giderek gelişen ve ülkemizin en yaşanılası şehirlerinden biri olarak gösterilebilecek ilde 2008 yılında hizmete açılan Tekira Alışveriş Merkezi de bulunmakta. "
+    },
+    {
+      "il_adi": "Tokat",
+      "plaka_kodu": "60",
+      "alan_kodu": "356",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "10.042",
+      "ilceler": [
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1679",
+  "il_adi": "TOKAT",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1129",
+  "il_adi": "TOKAT",
+  "ilce_adi": "ALMUS"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1151",
+  "il_adi": "TOKAT",
+  "ilce_adi": "ARTOVA"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1883",
+  "il_adi": "TOKAT",
+  "ilce_adi": "BAŞÇİFTLİK"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1308",
+  "il_adi": "TOKAT",
+  "ilce_adi": "ERBAA"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1545",
+  "il_adi": "TOKAT",
+  "ilce_adi": "NİKSAR"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1834",
+  "il_adi": "TOKAT",
+  "ilce_adi": "PAZAR"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1584",
+  "il_adi": "TOKAT",
+  "ilce_adi": "REŞADİYE"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1987",
+  "il_adi": "TOKAT",
+  "ilce_adi": "SULUSARAY"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1690",
+  "il_adi": "TOKAT",
+  "ilce_adi": "TURHAL"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1858",
+  "il_adi": "TOKAT",
+  "ilce_adi": "YEŞİLYURT"},
+{
+  "plaka_kodu": "60",
+  "ilce_kodu": "1740",
+  "il_adi": "TOKAT",
+  "ilce_adi": "ZİLE"}
+      ],
+      "kisa_bilgi": "Yeşilırmak  havzası  üzerinde  kurulmuş  olan, yaylaları, gölleri, mesire yerleri, tarihi atmosferi, doğa sporlarına imkân tanıyan dağları, tepeleriyle Tokat, pek çok ilklerin şehridir. Örneğin Roma İmparatoru Jul Sezar'ın Veni-Vidi-Viciyi söylediği yer olarak gösterilen Zile Kalesi ile Kazıklı Voyvoda III. Vlad'ın tutsak olarak kaldığı kale olan Tokat Kalesi buradadır. İl ayrıca 90 yıllık bir müzeye ev sahipliği yapar, onlarca el sanatını barındırır ve Anadolu’nun ilk başkentine ev sahipliği yapmıştır."
+    },
+    {
+      "il_adi": "Trabzon",
+      "plaka_kodu": "61",
+      "alan_kodu": "462",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "4.628",
+      "ilceler": [
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1113",
+  "il_adi": "TRABZON",
+  "ilce_adi": "AKÇAABAT"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1141",
+  "il_adi": "TRABZON",
+  "ilce_adi": "ARAKLI"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1150",
+  "il_adi": "TRABZON",
+  "ilce_adi": "ARSİN"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1775",
+  "il_adi": "TRABZON",
+  "ilce_adi": "BEŞİKDÜZÜ"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1896",
+  "il_adi": "TRABZON",
+  "ilce_adi": "ÇARŞIBAŞI"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1244",
+  "il_adi": "TRABZON",
+  "ilce_adi": "ÇAYKARA"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1909",
+  "il_adi": "TRABZON",
+  "ilce_adi": "DERNEKPAZARI"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1917",
+  "il_adi": "TRABZON",
+  "ilce_adi": "DÜZKÖY"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1942",
+  "il_adi": "TRABZON",
+  "ilce_adi": "HAYRAT"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1966",
+  "il_adi": "TRABZON",
+  "ilce_adi": "KÖPRÜBAŞI"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1507",
+  "il_adi": "TRABZON",
+  "ilce_adi": "MAÇKA"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1548",
+  "il_adi": "TRABZON",
+  "ilce_adi": "OF"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "2097",
+  "il_adi": "TRABZON",
+  "ilce_adi": "ORTAHİSAR"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1647",
+  "il_adi": "TRABZON",
+  "ilce_adi": "SÜRMENE"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1842",
+  "il_adi": "TRABZON",
+  "ilce_adi": "ŞALPAZARI"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1681",
+  "il_adi": "TRABZON",
+  "ilce_adi": "TONYA"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1709",
+  "il_adi": "TRABZON",
+  "ilce_adi": "VAKFIKEBİR"},
+{
+  "plaka_kodu": "61",
+  "ilce_kodu": "1732",
+  "il_adi": "TRABZON",
+  "ilce_adi": "YOMRA"}
+      ],
+      "kisa_bilgi": "Rize, Giresun, Gümüşhane ve Bayburt illeriyle çevrili Trabzon’un tarihi en azından 4000 yıl öncesine dek uzanıyor. Şenlikleriyle dikkati çeken, her sene pek çok turisti ağırlayan ve doğa sporlarına imkân tanıyan yaylalar, şehrin sosyo-kültürel yapısında büyük bir öneme sahip. "
+    },
+    {
+      "il_adi": "Tunceli",
+      "plaka_kodu": "62",
+      "alan_kodu": "428",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "7.582",
+      "ilceler": [
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1688",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1247",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "ÇEMİŞGEZEK"},
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1397",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "HOZAT"},
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1518",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "MAZGİRT"},
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1541",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "NAZIMİYE"},
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1562",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "OVACIK"},
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1574",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "PERTEK"},
+{
+  "plaka_kodu": "62",
+  "ilce_kodu": "1581",
+  "il_adi": "TUNCELİ",
+  "ilce_adi": "PÜLÜMÜR"}
+      ],
+      "kisa_bilgi": "Yerleşimin M.Ö. 5500-3500 yıllarına dek uzandığı, Doğu Anadolu’nun Yukarı Fırat bölümünde bulunan Tunceli, ülkemizin en az nüfusu olan illerinden biri.  Munzur’la birleşerek Keban Barajı'na dökülen Mercan Irmağı, Mercan Dağları, Munzur Suyu şehrin karakteristik güzelliklerinden birkaç tanesi"
+    },
+    {
+      "il_adi": "Şanlıurfa",
+      "plaka_kodu": "63",
+      "alan_kodu": "414",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "19.242",
+      "ilceler": [
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1115",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "AKÇAKALE"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1194",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "BİRECİK"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1209",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "BOZOVA"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1220",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "CEYLANPINAR"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "2091",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "EYYÜBİYE"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1378",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "HALFETİ"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "2092",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "HALİLİYE"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1800",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "HARRAN"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1393",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "HİLVAN"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "2093",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "KARAKÖPRÜ"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1630",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "SİVEREK"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1643",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "SURUÇ"},
+{
+  "plaka_kodu": "63",
+  "ilce_kodu": "1713",
+  "il_adi": "ŞANLIURFA",
+  "ilce_adi": "VİRANŞEHİR"}
+      ],
+      "kisa_bilgi": "Mardin, Gaziantep, Adıyaman, Diyarbakır illeri ve güneyde Suriye ile sınır komşusu olan, çok eski çağlara dek uzanan zengin tarihiyle Şanlıurfa (Kürtçe: Riha, Arapça: الرها ve Süryanice: Urhoy), ülkemizin en kalabalık şehirlerinden biridir. Kozmopolit yapısıyla çok zengin bir kültürü olan Urfa, -sayıları giderek azalsa da-, Türkiye Ezidilerinin çoğunluğuna evsahipliği yapar. Urfa, sahip olduğu doğal zenginlikleriyle de dikkati çeker."
+    },
+    {
+      "il_adi": "Uşak",
+      "plaka_kodu": "64",
+      "alan_kodu": "276",
+      "bolge": "Ege",
+      "yuzolcumu": "5.555",
+      "ilceler": [
+{
+  "plaka_kodu": "64",
+  "ilce_kodu": "1704",
+  "il_adi": "UŞAK",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "64",
+  "ilce_kodu": "1170",
+  "il_adi": "UŞAK",
+  "ilce_adi": "BANAZ"},
+{
+  "plaka_kodu": "64",
+  "ilce_kodu": "1323",
+  "il_adi": "UŞAK",
+  "ilce_adi": "EŞME"},
+{
+  "plaka_kodu": "64",
+  "ilce_kodu": "1436",
+  "il_adi": "UŞAK",
+  "ilce_adi": "KARAHALLI"},
+{
+  "plaka_kodu": "64",
+  "ilce_kodu": "1629",
+  "il_adi": "UŞAK",
+  "ilce_adi": "SİVASLI"},
+{
+  "plaka_kodu": "64",
+  "ilce_kodu": "1697",
+  "il_adi": "UŞAK",
+  "ilce_adi": "ULUBEY"}
+      ],
+      "kisa_bilgi": "İç Anadolu ile Ege Bölgesi arasında geçiş bölümü oluşturan, M.Ö. 4000 yılına uzanan geçmişiyle pek çok kültüre ev sahipliği yapmış olan il, aynı zamanda bir ilkler şehri. 1909 yılında elektrik kullanmaya başlayarak, ülkenin bu anlamda ilk şehri statüsüne sahip olmuştur. Türkiye’nin ilk demiryolu hattı buradan geçtiği gibi, 1926 yılında ilk şeker fabrikasının da açıldığı ildir aynı zamanda. Dolayısıyla ülke sanayileşmesinde değerli bir yeri vardır Uşak’ın. "
+    },
+    {
+      "il_adi": "Van",
+      "plaka_kodu": "65",
+      "alan_kodu": "432",
+      "bolge": "Doğu Anadolu ",
+      "yuzolcumu": "20.921",
+      "ilceler": [
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1770",
+  "il_adi": "VAN",
+  "ilce_adi": "BAHÇESARAY"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1175",
+  "il_adi": "VAN",
+  "ilce_adi": "BAŞKALE"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1786",
+  "il_adi": "VAN",
+  "ilce_adi": "ÇALDIRAN"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1236",
+  "il_adi": "VAN",
+  "ilce_adi": "ÇATAK"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1918",
+  "il_adi": "VAN",
+  "ilce_adi": "EDREMİT"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1309",
+  "il_adi": "VAN",
+  "ilce_adi": "ERCİŞ"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1350",
+  "il_adi": "VAN",
+  "ilce_adi": "GEVAŞ"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1372",
+  "il_adi": "VAN",
+  "ilce_adi": "GÜRPINAR"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "2098",
+  "il_adi": "VAN",
+  "ilce_adi": "İPEKYOLU"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1533",
+  "il_adi": "VAN",
+  "ilce_adi": "MURADİYE"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1565",
+  "il_adi": "VAN",
+  "ilce_adi": "ÖZALP"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "1980",
+  "il_adi": "VAN",
+  "ilce_adi": "SARAY"},
+{
+  "plaka_kodu": "65",
+  "ilce_kodu": "2099",
+  "il_adi": "VAN",
+  "ilce_adi": "TUŞBA"}
+      ],
+      "kisa_bilgi": "Doğu Anadolu bölgesinin en büyük ili olan Van, Urartular’dan kalma ve hâlâ yaşanılan dünya üzerindeki en eski bir yerleşim yerlerinden biridir. "
+    },
+    {
+      "il_adi": "Yozgat",
+      "plaka_kodu": "66",
+      "alan_kodu": "354",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "13.690",
+      "ilceler": [
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1733",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1117",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "AKDAĞMADENİ"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1877",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "AYDINCIK"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1198",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "BOĞAZLIYAN"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1895",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "ÇANDIR"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1242",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "ÇAYIRALAN"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1245",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "ÇEKEREK"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1952",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "KADIŞEHRİ"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1982",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "SARAYKENT"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1602",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "SARIKAYA"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1635",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "SORGUN"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1655",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "ŞEFAATLİ"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1998",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "YENİFAKILI"},
+{
+  "plaka_kodu": "66",
+  "ilce_kodu": "1726",
+  "il_adi": "YOZGAT",
+  "ilce_adi": "YERKÖY"}
+      ],
+      "kisa_bilgi": "Yaklaşık 5000 bin sene öncesine ait tarihi kalıntıların bulunduğu, Eti’lerin yerleşim merkezlerinden biri olan, ülkemizin tam ortasında yer alan, parmak çöreğiyle meşhur Yozgat, Türkiye’nin ilk milli parkı olan Çamlık Milli Parkı’nı da bünyesinde barındırıyor."
+    },
+    {
+      "il_adi": "Zonguldak",
+      "plaka_kodu": "67",
+      "alan_kodu": "372",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "3.342",
+      "ilceler": [
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "1741",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "1758",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "ALAPLI"},
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "1240",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "ÇAYCUMA"},
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "1276",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "DEVREK"},
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "1313",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "EREĞLİ"},
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "1926",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "GÖKÇEBEY"},
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "2100",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "KİLİMLİ"},
+{
+  "plaka_kodu": "67",
+  "ilce_kodu": "2101",
+  "il_adi": "ZONGULDAK",
+  "ilce_adi": "KOZLU"}
+      ],
+      "kisa_bilgi": "Batı Karadeniz Bölgesi’nde yer alan, ülkenin en zengin taş kömürü madenlerini barındıran ve limanıyla da deniz ticaretinde önemli bir yeri olan il, ayrıca Karadeniz’in en güzel sahillerinden birkaçına sahip."
+    },
+    {
+      "il_adi": "Aksaray",
+      "plaka_kodu": "68",
+      "alan_kodu": "382",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "7.659",
+      "ilceler": [
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "1120",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "1860",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "AĞAÇÖREN"},
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "1921",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "ESKİL"},
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "1932",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "GÜLAĞAÇ"},
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "1861",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "GÜZELYURT"},
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "1557",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "ORTAKÖY"},
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "1866",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "SARIYAHŞİ"},
+{
+  "plaka_kodu": "68",
+  "ilce_kodu": "2106",
+  "il_adi": "AKSARAY",
+  "ilce_adi": "SULTANHANI"}
+      ],
+      "kisa_bilgi": "1989 yılında Niğde’den ayrılarak il statüsüne kavuşan Aksaray, tarihi ve doğal zenginlikleriyle harika bir turistik rota. Hıristiyanlığın ilk yıllarında önemli bir din merkezi oluşu, pek çok kilisenin eski zamanlardan bu yana günümüze ulaştığı bir yere dönüştürüyor Aksaray’ı."
+    },
+    {
+      "il_adi": "Bayburt",
+      "plaka_kodu": "69",
+      "alan_kodu": "458",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "3.746",
+      "ilceler": [
+{
+  "plaka_kodu": "69",
+  "ilce_kodu": "1176",
+  "il_adi": "BAYBURT",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "69",
+  "ilce_kodu": "1767",
+  "il_adi": "BAYBURT",
+  "ilce_adi": "AYDINTEPE"},
+{
+  "plaka_kodu": "69",
+  "ilce_kodu": "1788",
+  "il_adi": "BAYBURT",
+  "ilce_adi": "DEMİRÖZÜ"}
+      ],
+      "kisa_bilgi": "Karadeniz bölgesinde bulunan bu minik ilin tarihi M.Ö. 3 bin yıllarına dek uzanıyor. 1989 yılında il statüsüne kavuşan Bayburt, daha öncesinde Erzurum ve Gümüşhane’ye bağlıydı."
+    },
+    {
+      "il_adi": "Karaman",
+      "plaka_kodu": "70",
+      "alan_kodu": "338",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "8.678",
+      "ilceler": [
+{
+  "plaka_kodu": "70",
+  "ilce_kodu": "1439",
+  "il_adi": "KARAMAN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "70",
+  "ilce_kodu": "1768",
+  "il_adi": "KARAMAN",
+  "ilce_adi": "AYRANCI"},
+{
+  "plaka_kodu": "70",
+  "ilce_kodu": "1884",
+  "il_adi": "KARAMAN",
+  "ilce_adi": "BAŞYAYLA"},
+{
+  "plaka_kodu": "70",
+  "ilce_kodu": "1316",
+  "il_adi": "KARAMAN",
+  "ilce_adi": "ERMENEK"},
+{
+  "plaka_kodu": "70",
+  "ilce_kodu": "1862",
+  "il_adi": "KARAMAN",
+  "ilce_adi": "KAZIMKARABEKİR"},
+{
+  "plaka_kodu": "70",
+  "ilce_kodu": "1983",
+  "il_adi": "KARAMAN",
+  "ilce_adi": "SARIVELİLER"}
+      ],
+      "kisa_bilgi": "İç Anadolu bölgesinde yer alan Karaman, 1989 yılında Konya’dan ayrılarak il statüsüne kavuştu. "
+    },
+    {
+      "il_adi": "Kırıkkale",
+      "plaka_kodu": "71",
+      "alan_kodu": "318",
+      "bolge": "İç Anadolu",
+      "yuzolcumu": "4791",
+      "ilceler": [
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1469",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1880",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "BAHŞILI"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1882",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "BALIŞEYH"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1901",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "ÇELEBİ"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1268",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "DELİCE"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1954",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "KARAKEÇİLİ"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1463",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "KESKİN"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1638",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "SULAKYURT"},
+{
+  "plaka_kodu": "71",
+  "ilce_kodu": "1992",
+  "il_adi": "KIRIKKALE",
+  "ilce_adi": "YAHŞİHAN"}
+      ],
+      "kisa_bilgi": "Kızılırmak ve Delice ırmaklarının suladığı topraklarda yer alan Kırıkkale, ülkemizin ortasında bulunan, kuruluşu oldukça yeni bir şehir."
+    },
+    {
+      "il_adi": "Batman",
+      "plaka_kodu": "72",
+      "alan_kodu": "488",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "4.477",
+      "ilceler": [
+{
+  "plaka_kodu": "72",
+  "ilce_kodu": "1174",
+  "il_adi": "BATMAN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "72",
+  "ilce_kodu": "1184",
+  "il_adi": "BATMAN",
+  "ilce_adi": "BEŞİRİ"},
+{
+  "plaka_kodu": "72",
+  "ilce_kodu": "1345",
+  "il_adi": "BATMAN",
+  "ilce_adi": "GERCÜŞ"},
+{
+  "plaka_kodu": "72",
+  "ilce_kodu": "1941",
+  "il_adi": "BATMAN",
+  "ilce_adi": "HASANKEYF"},
+{
+  "plaka_kodu": "72",
+  "ilce_kodu": "1487",
+  "il_adi": "BATMAN",
+  "ilce_adi": "KOZLUK"},
+{
+  "plaka_kodu": "72",
+  "ilce_kodu": "1607",
+  "il_adi": "BATMAN",
+  "ilce_adi": "SASON"}
+      ],
+      "kisa_bilgi": "Ülkemizin güneydoğusunda, Dicle Nehri ile yan kolları olan Batman ve Garzan çayları arasındaki havzada bulunan şehir, 1990 yılından bu yana il statüsüne sahip"
+    },
+    {
+      "il_adi": "Şırnak",
+      "plaka_kodu": "73",
+      "alan_kodu": "486",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "7.078",
+      "ilceler": [
+{
+  "plaka_kodu": "73",
+  "ilce_kodu": "1661",
+  "il_adi": "ŞIRNAK",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "73",
+  "ilce_kodu": "1189",
+  "il_adi": "ŞIRNAK",
+  "ilce_adi": "BEYTÜŞŞEBAP"},
+{
+  "plaka_kodu": "73",
+  "ilce_kodu": "1223",
+  "il_adi": "ŞIRNAK",
+  "ilce_adi": "CİZRE"},
+{
+  "plaka_kodu": "73",
+  "ilce_kodu": "1931",
+  "il_adi": "ŞIRNAK",
+  "ilce_adi": "GÜÇLÜKONAK"},
+{
+  "plaka_kodu": "73",
+  "ilce_kodu": "1403",
+  "il_adi": "ŞIRNAK",
+  "ilce_adi": "İDİL"},
+{
+  "plaka_kodu": "73",
+  "ilce_kodu": "1623",
+  "il_adi": "ŞIRNAK",
+  "ilce_adi": "SİLOPİ"},
+{
+  "plaka_kodu": "73",
+  "ilce_kodu": "1698",
+  "il_adi": "ŞIRNAK",
+  "ilce_adi": "ULUDERE"}
+      ],
+      "kisa_bilgi": "Asırlar süren bir gelenekle günümüze ulaşan Jirki ve Guyan kilimleri, çeşitli el sanatları ve halk oyunları ile zengin bir kültürel geçmişe sahip olan Şırnak, hem Güneydoğu Anadolu hem de Doğu Anadolu topraklarında yer alıyor. "
+    },
+    {
+      "il_adi": "Bartın",
+      "plaka_kodu": "74",
+      "alan_kodu": "378",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "2330",
+      "ilceler": [
+{
+  "plaka_kodu": "74",
+  "ilce_kodu": "1172",
+  "il_adi": "BARTIN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "74",
+  "ilce_kodu": "1761",
+  "il_adi": "BARTIN",
+  "ilce_adi": "AMASRA"},
+{
+  "plaka_kodu": "74",
+  "ilce_kodu": "1496",
+  "il_adi": "BARTIN",
+  "ilce_adi": "KURUCAŞİLE"},
+{
+  "plaka_kodu": "74",
+  "ilce_kodu": "1701",
+  "il_adi": "BARTIN",
+  "ilce_adi": "ULUS"}
+      ],
+      "kisa_bilgi": "Batı Karadeniz’de bulunan Bartın, 1991 yılında Zonguldak’tan ayrılarak il statüsüne kavuştu. Bu küçük il, 2000 yılında milli park ilan edilen ve 1998’de Dünya Doğayı Koruma Vakfı (WWF) tarafından Avrupa Ormanları’nda korumada öncelikli alanlardan biri olarak seçilen Küre Dağları Milli Parkı içerisinde yer alıyor."
+    },
+    {
+      "il_adi": "Ardahan",
+      "plaka_kodu": "75",
+      "alan_kodu": "478",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "4.934",
+      "ilceler": [
+{
+  "plaka_kodu": "75",
+  "ilce_kodu": "1144",
+  "il_adi": "ARDAHAN",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "75",
+  "ilce_kodu": "1252",
+  "il_adi": "ARDAHAN",
+  "ilce_adi": "ÇILDIR"},
+{
+  "plaka_kodu": "75",
+  "ilce_kodu": "2008",
+  "il_adi": "ARDAHAN",
+  "ilce_adi": "DAMAL"},
+{
+  "plaka_kodu": "75",
+  "ilce_kodu": "1356",
+  "il_adi": "ARDAHAN",
+  "ilce_adi": "GÖLE"},
+{
+  "plaka_kodu": "75",
+  "ilce_kodu": "1380",
+  "il_adi": "ARDAHAN",
+  "ilce_adi": "HANAK"},
+{
+  "plaka_kodu": "75",
+  "ilce_kodu": "1579",
+  "il_adi": "ARDAHAN",
+  "ilce_adi": "POSOF"}
+      ],
+      "kisa_bilgi": "Tarihi boyunca Urartu, Pers, Roma, Selçuklu, Osmanlı gibi medeniyetlere ev sahipliği yapan, ülkemizin Kafkaslara açılan kapısı niteliğindeki Ardahan, 1992 yılında Kars’tan ayrılarak il statüsüne kavuştu."
+    },
+    {
+      "il_adi": "Iğdır",
+      "plaka_kodu": "76",
+      "alan_kodu": "476",
+      "bolge": "Doğu Anadolu",
+      "yuzolcumu": "3664",
+      "ilceler": [
+{
+  "plaka_kodu": "76",
+  "ilce_kodu": "1398",
+  "il_adi": "IĞDIR",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "76",
+  "ilce_kodu": "1142",
+  "il_adi": "IĞDIR",
+  "ilce_adi": "ARALIK"},
+{
+  "plaka_kodu": "76",
+  "ilce_kodu": "2011",
+  "il_adi": "IĞDIR",
+  "ilce_adi": "KARAKOYUNLU"},
+{
+  "plaka_kodu": "76",
+  "ilce_kodu": "1692",
+  "il_adi": "IĞDIR",
+  "ilce_adi": "TUZLUCA"}
+      ],
+      "kisa_bilgi": "Ülkemizin en doğusun yer alan Iğdır, 1992 yılında Kars’tan ayrılarak il statüsüne kavuştu. Ermenistan, İran ve Azerbaycan ile sınır komşusu olması nedeniyle hem kültürel anlamda çeşitliliğe sahiptir, hem de ülkemizin üç ülkeyle sınırı olan tek şehridir. "
+    },
+    {
+      "il_adi": "Yalova",
+      "plaka_kodu": "77",
+      "alan_kodu": "226",
+      "bolge": "Marmara",
+      "yuzolcumu": "798",
+      "ilceler": [
+{
+  "plaka_kodu": "77",
+  "ilce_kodu": "1716",
+  "il_adi": "YALOVA",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "77",
+  "ilce_kodu": "2019",
+  "il_adi": "YALOVA",
+  "ilce_adi": "ALTINOVA"},
+{
+  "plaka_kodu": "77",
+  "ilce_kodu": "2020",
+  "il_adi": "YALOVA",
+  "ilce_adi": "ARMUTLU"},
+{
+  "plaka_kodu": "77",
+  "ilce_kodu": "2021",
+  "il_adi": "YALOVA",
+  "ilce_adi": "ÇINARCIK"},
+{
+  "plaka_kodu": "77",
+  "ilce_kodu": "2022",
+  "il_adi": "YALOVA",
+  "ilce_adi": "ÇİFTLİKKÖY"},
+{
+  "plaka_kodu": "77",
+  "ilce_kodu": "2026",
+  "il_adi": "YALOVA",
+  "ilce_adi": "TERMAL"}
+      ],
+      "kisa_bilgi": "Marmara Bölgesinde bulunan Yalova, 1995 yılında İstanbul’dan ayrılarak il statüsüne kavuştu. İlk yerleşim izlerinin M.Ö. 3000 yılına dek uzandığı, sağlık turizmiyle de ülkemizde önemli bir yeri olan Yalova’nın birbirinden güzel ilçeleri, özellikle İstanbullular için tam birer kaçış noktası niteliğine sahip."
+    },
+    {
+      "il_adi": "Karabük",
+      "plaka_kodu": "78",
+      "alan_kodu": "370",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "4142",
+      "ilceler": [
+{
+  "plaka_kodu": "78",
+  "ilce_kodu": "1433",
+  "il_adi": "KARABÜK",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "78",
+  "ilce_kodu": "1296",
+  "il_adi": "KARABÜK",
+  "ilce_adi": "EFLANİ"},
+{
+  "plaka_kodu": "78",
+  "ilce_kodu": "1321",
+  "il_adi": "KARABÜK",
+  "ilce_adi": "ESKİPAZAR"},
+{
+  "plaka_kodu": "78",
+  "ilce_kodu": "1561",
+  "il_adi": "KARABÜK",
+  "ilce_adi": "OVACIK"},
+{
+  "plaka_kodu": "78",
+  "ilce_kodu": "1587",
+  "il_adi": "KARABÜK",
+  "ilce_adi": "SAFRANBOLU"},
+{
+  "plaka_kodu": "78",
+  "ilce_kodu": "1856",
+  "il_adi": "KARABÜK",
+  "ilce_adi": "YENİCE"}
+      ],
+      "kisa_bilgi": "Batı Karadeniz bölgesinde yer alan Karabük en çok meşhur turistik beldesi Safranbolu ile biliniyor. 1994 yılında UNESCO Dünya Miras Listesi’ne alınan Safranbolu, 14. yy’dan bu yana Türklerin hakimiyetinde bulunuyor ve geleneksel şehir dokusunun olduğu gibi görülebileceği, koruma altında bulunan bir tarihi miras."
+    },
+    {
+      "il_adi": "Kilis",
+      "plaka_kodu": "79",
+      "alan_kodu": "348",
+      "bolge": "Güneydoğu Anadolu",
+      "yuzolcumu": "1412",
+      "ilceler": [
+{
+  "plaka_kodu": "79",
+  "ilce_kodu": "1476",
+  "il_adi": "KİLİS",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "79",
+  "ilce_kodu": "2023",
+  "il_adi": "KİLİS",
+  "ilce_adi": "ELBEYLİ"},
+{
+  "plaka_kodu": "79",
+  "ilce_kodu": "2024",
+  "il_adi": "KİLİS",
+  "ilce_adi": "MUSABEYLİ"},
+{
+  "plaka_kodu": "79",
+  "ilce_kodu": "2025",
+  "il_adi": "KİLİS",
+  "ilce_adi": "POLATELİ"}
+      ],
+      "kisa_bilgi": "Suriye ile komşu olan ve 1995 yılından bu yana il statüsünde bulunan Kilis’in tarihi M.Ö. 3 bin yıllarına dek uzanıyor. Zengin tarihi ve kültürel dokuya sahip Kilis’te görebileceğiniz pek çok yer var: Konik bir tepe üzerine kurulu, Haçlı Seferlerine uzanan tarihiyle Ravanda Kalesi, yerel ağızda çeşme anlamına gelen kastelleri, hayranlık uyandıran hamamları (Eski Hamam, Paşa Hamamı, Hoca Hamamı, Tuğlu Hamamı gibi), Neşet Efendi Konağı, Kilis Evi, geleneksel konakları, Ahmet Bey Konağı sayabileceklerimiz arasında."
+    },
+    {
+      "il_adi": "Osmaniye",
+      "plaka_kodu": "80",
+      "alan_kodu": "328",
+      "bolge": "Akdeniz",
+      "yuzolcumu": "3320",
+      "ilceler": [
+{
+  "plaka_kodu": "80",
+  "ilce_kodu": "1560",
+  "il_adi": "OSMANİYE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "80",
+  "ilce_kodu": "1165",
+  "il_adi": "OSMANİYE",
+  "ilce_adi": "BAHÇE"},
+{
+  "plaka_kodu": "80",
+  "ilce_kodu": "1743",
+  "il_adi": "OSMANİYE",
+  "ilce_adi": "DÜZİÇİ"},
+{
+  "plaka_kodu": "80",
+  "ilce_kodu": "2027",
+  "il_adi": "OSMANİYE",
+  "ilce_adi": "HASANBEYLİ"},
+{
+  "plaka_kodu": "80",
+  "ilce_kodu": "1423",
+  "il_adi": "OSMANİYE",
+  "ilce_adi": "KADİRLİ"},
+{
+  "plaka_kodu": "80",
+  "ilce_kodu": "2028",
+  "il_adi": "OSMANİYE",
+  "ilce_adi": "SUMBAS"},
+{
+  "plaka_kodu": "80",
+  "ilce_kodu": "2029",
+  "il_adi": "OSMANİYE",
+  "ilce_adi": "TOPRAKKALE"}
+      ],
+      "kisa_bilgi": "Akdeniz bölgesi ile Çukurova’nın doğusunda bulunan, yer fıstığıyla meşhur Osmaniye, 1933 yılına kadar vilayet iken, kazaya indirilmiş; ancak 1996 yılında tekrar il statüsüne kavuşmuştur. Akarsu ve bitki örtüsü zenginliğiyle dikkati çeken il, Zorkun-Olukbaşı-Ürün ve Kadirli Almacık gibi güzel yaylalara sahip."
+    },
+    {
+      "il_adi": "Düzce",
+      "plaka_kodu": "81",
+      "alan_kodu": "380",
+      "bolge": "Karadeniz",
+      "yuzolcumu": "2.492",
+      "ilceler": [
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "1292",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "MERKEZ"},
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "1116",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "AKÇAKOCA"},
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "1784",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "CUMAYERİ"},
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "1905",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "ÇİLİMLİ"},
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "1794",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "GÖLYAKA"},
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "2017",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "GÜMÜŞOVA"},
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "2031",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "KAYNAŞLI"},
+{
+  "plaka_kodu": "81",
+  "ilce_kodu": "1730",
+  "il_adi": "DÜZCE",
+  "ilce_adi": "YIĞILCA"}
+      ],
+      "kisa_bilgi": "Tarihi Hititlere dek uzanan, İstanbul-Ankara karayolunun önemli kavşak noktalarından biri konumundaki Düzce, deniz ve doğa severler için cazip bir yer. Motor, bisiklet ve havacılık sporları, rafting, kamp, karavan tatili, yelken ve dalış gibi su sporları, yayla, göl, mağara turizmi gibi çok çeşitli aktivitelere olanak sağlayan il, büyük şehirlerden kaçıp kafa dinlemek isteyenler için harika bir seçenek. "
+    }
+  ]
+}
