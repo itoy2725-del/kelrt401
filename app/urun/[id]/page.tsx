@@ -4,7 +4,7 @@ import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { Plus, Minus, ChevronLeft, ChevronRight, ShoppingCart } from 'lucide-react';
 import Link from 'next/link';
-import { useCartStore } from '@/lib/store';
+import { useCartStore, MAX_CART_QUANTITY } from '@/lib/store';
 import { useEffect, useState, useRef, useCallback } from 'react';
 import { Product } from '@/lib/types';
 
@@ -514,15 +514,15 @@ export default function UrunDetayPage() {
                             </span>
                             <button
                                 onClick={() => {
-                                    if (quantity < 2) {
+                                    if (quantity < MAX_CART_QUANTITY) {
                                         updateQuantity(product.id, quantity + 1);
                                     }
                                 }}
-                                disabled={quantity >= 2}
+                                disabled={quantity >= MAX_CART_QUANTITY}
                                 style={{
                                     width: 34, height: 34, display: 'flex', alignItems: 'center', justifyContent: 'center',
-                                    backgroundColor: quantity >= 2 ? '#ccc' : '#45b02a', border: 'none', borderRadius: '50%',
-                                    cursor: quantity >= 2 ? 'not-allowed' : 'pointer',
+                                    backgroundColor: quantity >= MAX_CART_QUANTITY ? '#ccc' : '#45b02a', border: 'none', borderRadius: '50%',
+                                    cursor: quantity >= MAX_CART_QUANTITY ? 'not-allowed' : 'pointer',
                                 }}>
                                 <Plus size={16} color="#fff" />
                             </button>
@@ -542,9 +542,9 @@ export default function UrunDetayPage() {
                             Sepete Ekle
                         </button>
                     )}
-                    {quantity >= 2 && (
+                    {quantity >= MAX_CART_QUANTITY && (
                         <span style={{ color: '#e50019', fontSize: '9px', fontWeight: '600', textAlign: 'right' }}>
-                            (En fazla 2 adet ekleyebilirsiniz)
+                            (En fazla {MAX_CART_QUANTITY} adet ekleyebilirsiniz)
                         </span>
                     )}
                 </div>

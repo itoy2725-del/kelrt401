@@ -2,6 +2,9 @@ import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import { Product, CartItem } from './types';
 
+// Bir ürün için sepete eklenebilecek maksimum adet
+export const MAX_CART_QUANTITY = 1;
+
 interface CartStore {
     items: CartItem[];
     addItem: (product: Product) => void;
@@ -54,7 +57,7 @@ export const useCartStore = create<CartStore>()(
             addItem: (product: Product) => {
                 set((state) => {
                     const existingItem = state.items.find(item => item.product_id === product.id);
-                    if (existingItem && existingItem.amount >= 2) {
+                    if (existingItem && existingItem.amount >= MAX_CART_QUANTITY) {
                         return { items: state.items };
                     }
                     const newAmount = existingItem ? existingItem.amount + 1 : 1;
@@ -97,7 +100,7 @@ export const useCartStore = create<CartStore>()(
                     get().removeItem(productId);
                     return;
                 }
-                const finalAmount = amount > 2 ? 2 : amount;
+                const finalAmount = amount > MAX_CART_QUANTITY ? MAX_CART_QUANTITY : amount;
                 
                 set((state) => {
                     const newItems = state.items.map(item =>

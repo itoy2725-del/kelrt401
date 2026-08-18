@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { ShoppingCart, Plus, Minus } from 'lucide-react';
 import { Product } from '@/lib/types';
 import { useState } from 'react';
-import { useCartStore } from '@/lib/store';
+import { useCartStore, MAX_CART_QUANTITY } from '@/lib/store';
 
 const BLUE = "#085fae";
 
@@ -63,7 +63,9 @@ export default function ProductCard({ product, showCardBadge = true }: ProductCa
     const handleIncrease = (e: React.MouseEvent) => {
         e.preventDefault();
         e.stopPropagation();
-        updateQuantity(product.id, quantity + 1);
+        if (quantity < MAX_CART_QUANTITY) {
+            updateQuantity(product.id, quantity + 1);
+        }
     };
 
     const handleDecrease = (e: React.MouseEvent) => {
@@ -324,16 +326,17 @@ export default function ProductCard({ product, showCardBadge = true }: ProductCa
                                 {/* Yeşil + butonu */}
                                 <button
                                     onClick={handleIncrease}
+                                    disabled={quantity >= MAX_CART_QUANTITY}
                                     style={{
                                         width: "30px",
                                         height: "30px",
                                         display: "flex",
                                         alignItems: "center",
                                         justifyContent: "center",
-                                        backgroundColor: "#45b02a",
+                                        backgroundColor: quantity >= MAX_CART_QUANTITY ? "#ccc" : "#45b02a",
                                         border: "none",
                                         borderRadius: "50%",
-                                        cursor: "pointer",
+                                        cursor: quantity >= MAX_CART_QUANTITY ? "not-allowed" : "pointer",
                                     }}
                                     aria-label="Artır"
                                 >

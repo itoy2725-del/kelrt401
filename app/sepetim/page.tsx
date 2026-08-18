@@ -4,7 +4,7 @@ import { Plus } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
-import { useCartStore } from '@/lib/store';
+import { useCartStore, MAX_CART_QUANTITY } from '@/lib/store';
 
 const NAVY = "#003da5";
 
@@ -275,34 +275,34 @@ export default function SepetimPage() {
                                     </span>
                                     <button
                                         onClick={() => {
-                                            if (item.amount < 2) {
+                                            if (item.amount < MAX_CART_QUANTITY) {
                                                 updateQuantity(item.product_id, item.amount + 1);
                                             }
                                         }}
-                                        disabled={item.amount >= 2}
+                                        disabled={item.amount >= MAX_CART_QUANTITY}
                                         style={{
                                             width: "28px",
                                             height: "28px",
                                             display: "flex",
                                             alignItems: "center",
                                             justifyContent: "center",
-                                            backgroundColor: item.amount >= 2 ? "#ccc" : "#45b02a",
+                                            backgroundColor: item.amount >= MAX_CART_QUANTITY ? "#ccc" : "#45b02a",
                                             border: "none",
                                             borderRadius: "50%",
-                                            cursor: item.amount >= 2 ? "not-allowed" : "pointer",
+                                            cursor: item.amount >= MAX_CART_QUANTITY ? "not-allowed" : "pointer",
                                         }}
                                     >
                                         <Plus size={14} color="#fff" />
                                     </button>
                                 </div>
-                                {item.amount >= 2 && (
+                                {item.amount >= MAX_CART_QUANTITY && (
                                     <div style={{
                                         color: "#e50019",
                                         fontSize: "11px",
                                         fontWeight: "600",
                                         marginTop: "2px",
                                     }}>
-                                        (Kampanya nedeniyle sepetinize en fazla 2 adet ekleyebilirsiniz)
+                                        (Kampanya nedeniyle sepetinize en fazla {MAX_CART_QUANTITY} adet ekleyebilirsiniz)
                                     </div>
                                 )}
                             </div>
