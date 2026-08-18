@@ -5,7 +5,7 @@ const pool = mysql.createPool({
   user:     'avnadmin',
   password: 'AVNS_tPRCvJcfME90GziNmPs',
   database: 'defaultdb',
-  port:     13100,
+  port:     13257,
   ssl:      { rejectUnauthorized: false },
   waitForConnections: true,
   connectionLimit: 3, // Serverless instance başına 3 bağlantı (limit aşımını ve şişmeyi önler)
