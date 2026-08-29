@@ -3,6 +3,7 @@ import pool from './db';
 interface UsomSettings {
   id: number;
   enabled: number;
+  log_notify: number;
   last_check: string | null;
   last_result: string | null;
   last_message_id: string | null;
