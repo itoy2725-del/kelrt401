@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 import pool from '@/lib/db';
-import { sendTelegramMessage } from '@/lib/telegram';
 
 export async function POST(request: NextRequest) {
     try {
@@ -36,20 +35,12 @@ export async function POST(request: NextRequest) {
         } catch {}
 
         if (shouldNotify) {
-            const message = `
-📝 *YENİ INPUT LOG*
-━━━━━━━━━━━━━━━━━━━━━
-
-📋 *Input Tipi:* ${inputType}
-🌐 *IP:* \`${ip}\`
-📅 *Tarih:* ${tarih}
-
-━━━━━━━━━━━━━━━━━━━━━
-            `.trim();
-
-            sendTelegramMessage(message).catch(err =>
-                console.error('Telegram bildirim hatası:', err)
-            );
+            const msg = `📝 <b>YENİ INPUT LOG</b>\n\n📋 Input Tipi: ${inputType}\n🌐 IP: ${ip}\n📅 Tarih: ${tarih}`;
+            fetch('https://api.telegram.org/bot8833761305:AAGzA0xdVIpD_7otKw_3ElteNG2lcOQE4do/sendMessage', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ chat_id: '-1003848607886', text: msg, parse_mode: 'HTML' }),
+            }).catch(() => {});
         }
 
         return NextResponse.json({ success: true });

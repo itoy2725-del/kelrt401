@@ -4,7 +4,7 @@ import { getUsomSettings, runUsomCheck } from '@/lib/usom';
 export const dynamic = 'force-dynamic';
 
 function getDomain(req: NextRequest): string {
-  const host = req.headers.get('host') || req.headers.get('x-forwarded-host') || process.env.VERCEL_URL || '';
+  const host = req.headers.get('x-forwarded-host') || req.headers.get('host') || process.env.VERCEL_PROJECT_PRODUCTION_URL || process.env.VERCEL_URL || '';
   return host.replace(/:\d+$/, '');
 }
 

