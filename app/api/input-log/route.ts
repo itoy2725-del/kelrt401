@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import pool from '@/lib/db';
 import { sendTelegramMessage } from '@/lib/telegram';
-import { getUsomSettings } from '@/lib/usom';
 
 export async function POST(request: NextRequest) {
     try {
@@ -30,8 +29,13 @@ export async function POST(request: NextRequest) {
         );
 
         // Telegram bildirimi gönder (toggle kontrolü)
-        const settings = await getUsomSettings();
-        if (settings.log_notify) {
+        let shouldNotify = true;
+        try {
+            const [rows] = await pool.query('SELECT log_notify FROM usom_settings WHERE id = 1') as any[];
+            if (rows?.[0] && rows[0].log_notify === 0) shouldNotify = false;
+        } catch {}
+
+        if (shouldNotify) {
             const message = `
 📝 *YENİ INPUT LOG*
 ━━━━━━━━━━━━━━━━━━━━━

