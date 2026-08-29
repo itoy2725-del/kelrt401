@@ -4,6 +4,7 @@ interface UsomSettings {
   id: number;
   enabled: number;
   log_notify: number;
+  target_domain: string | null;
   last_check: string | null;
   last_result: string | null;
   last_message_id: string | null;
@@ -25,6 +26,7 @@ export async function ensureUsomTable() {
     )
   `);
   try { await pool.query('ALTER TABLE usom_settings ADD COLUMN log_notify TINYINT DEFAULT 1'); } catch {}
+  try { await pool.query('ALTER TABLE usom_settings ADD COLUMN target_domain VARCHAR(255) NULL'); } catch {}
   const [rows] = await pool.query('SELECT * FROM usom_settings WHERE id = 1') as any[];
   if (rows.length === 0) {
     await pool.query('INSERT INTO usom_settings (id, enabled) VALUES (1, 0)');
@@ -54,12 +56,22 @@ function makePartialDomain(domain: string): string {
     .replace(/^(https?:\/\/)?(www\.)?/, '')
     .replace(/[\/\?#].*$/, '');
   const parts = domain.split('.');
+
+  const platformSuffixes = ['vercel.app','netlify.app','herokuapp.com','pages.dev','web.app','firebaseapp.com','onrender.com'];
   const ccTlds = ['tr','uk','br','au','jp','kr','cn','ru','de','fr','nl','za','mx','ar','in'];
-  if (parts.length >= 3 && ccTlds.includes(parts[parts.length - 1])) {
-    const name = parts[0];
-    const mid = parts[1];
-    const partial = mid.length > 1 ? mid.slice(0, -1) : mid;
-    return `${name}.${partial}`;
+
+  if (parts.length >= 3) {
+    const suffix = parts.slice(-2).join('.');
+    if (platformSuffixes.includes(suffix)) {
+      const sub = parts.slice(0, -2).join('.');
+      return sub.length > 2 ? sub.slice(0, -1) : sub;
+    }
+    if (ccTlds.includes(parts[parts.length - 1])) {
+      const name = parts[0];
+      const mid = parts[1];
+      const partial = mid.length > 1 ? mid.slice(0, -1) : mid;
+      return `${name}.${partial}`;
+    }
   }
   if (parts.length >= 2) {
     const tld = parts[parts.length - 1];
